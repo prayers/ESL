@@ -520,162 +520,162 @@
 	I’m considering changing my church.	
 ## September 9, 2019	
 	Overreacting
-She teaches us some reduced speech
-When I'm writing, I can organize my sentences very well
-I’ll tell you something funny
-We don’t show any emotion on our face while we are walking
-I have to display my emotions with facial expressions.
-I don’t have to say anything.
-I have learned several hand gestures.
-Excuse me, could you please help me?
-They check your items to make sure that they are on the receipt.
-That is an indication of Americans’ sense of humor. It seems to be low-level humor to me.
-I’m tired of acting. I don’t want to be a movie actor in this never-ending American movie. I’m sick and tired of having to act all of the time.
-“free” was written on the sign.
-Greenlake Oktoberfest/ Fremont oktoberfest
-A black man walked up to me to help me.
-I pumped the gas at the 76 station.
-I pumped air into the tire.
-I pump up the tire.
-Please turn down the volume.
-Could you pump up the volume?
-I don’t have many friends here.
-Living in Seattle is relatively boring.
-The bicycle was the most common mode of transportation.
-The lady drew it herself.
-I flattered her with compliments.
-The worker at the department of licensing took an unflattering photo of me for my license.
-I hung the painting on the wall.
-I don’t like it enough to bother going to the house to get it back.
+    She teaches us some reduced speech
+    When I'm writing, I can organize my sentences very well
+    I’ll tell you something funny
+    We don’t show any emotion on our face while we are walking
+    I have to display my emotions with facial expressions.
+    I don’t have to say anything.
+    I have learned several hand gestures.
+    Excuse me, could you please help me?
+    They check your items to make sure that they are on the receipt.
+    That is an indication of Americans’ sense of humor. It seems to be low-level humor to me.
+    I’m tired of acting. I don’t want to be a movie actor in this never-ending American movie. I’m sick and tired of having to act all of the time.
+    “free” was written on the sign.
+    Greenlake Oktoberfest/ Fremont oktoberfest
+    A black man walked up to me to help me.
+    I pumped the gas at the 76 station.
+    I pumped air into the tire.
+    I pump up the tire.
+    Please turn down the volume.
+    Could you pump up the volume?
+    I don’t have many friends here.
+    Living in Seattle is relatively boring.
+    The bicycle was the most common mode of transportation.
+    The lady drew it herself.
+    I flattered her with compliments.
+    The worker at the department of licensing took an unflattering photo of me for my license.
+    I hung the painting on the wall.
+    I don’t like it enough to bother going to the house to get it back.
 	
 ## September 12, 2019	
 	Let’s take a look at the PDG payoff matrix.
-T is greater than R is greater than P is greater than S
-0.1=zero point one
-Alpha has a value from -3 to 3.
-In each round
-During the peak hours
-The traffic on I-5 is very heavy. The traffic on 35th ave ne, which i drive on every day, is quite smoothly flowing (flows smoothly).
-Why does it happen?
-The framework of the algorithms is the same.
-The three equations are shown here.
-The shortest values of d
-The green diamonds represent the FEM algorithm.
-The least (amount of ) time
-The best algorithm
-They don’t care about those mistakes.
-False-confidence
-Overconfidence
-Our English isn’t as good as we thought it was.
-They have neither the desire nor the ability to point out one’s mistakes.	
+    T is greater than R is greater than P is greater than S
+    0.1=zero point one
+    Alpha has a value from -3 to 3.
+    In each round
+    During the peak hours
+    The traffic on I-5 is very heavy. The traffic on 35th ave ne, which i drive on every day, is quite smoothly flowing (flows smoothly).
+    Why does it happen?
+    The framework of the algorithms is the same.
+    The three equations are shown here.
+    The shortest values of d
+    The green diamonds represent the FEM algorithm.
+    The least (amount of ) time
+    The best algorithm
+    They don’t care about those mistakes.
+    False-confidence
+    Overconfidence
+    Our English isn’t as good as we thought it was.
+    They have neither the desire nor the ability to point out one’s mistakes.	
 ## September 14, 2019	
 	I think both are Okay.
-I’m not sure.
-The anxious man used the cell phone to call his open-minded friend because his happy fish was missing from his fishbowl. Together they searched for the missing fish and the fish was in a pond in New York city. So, the two worried friends took a new plane to the busy city. After arriving in the city, the found the small pond in which the fish was building a tent. So, they took the surprised fish back to Seattle on a fast plane. After arriving in Seattle, they put the disappointed fish back in his boring fishbowl.
-The earth turns every day.
-The earth turned last night. 
-The earth will turn tomorrow.
-The lighting hits something every day. 
-The lighting hit my father. 
-On Tuesday the lighting will hit the tree which is growing on your head.
-The big monster is scaring people right now.
-The big monster was scaring people when the lighting hit the tree which is growing on your head.
-The big monster will be scaring people when the lighting hits the tree which is growing on your head.
-My unhappy dad was reading his dictionary when we were talking about the lighting.(past progressive)
-My funny bear Farney was listening to us when we were talking about the lighting.
-My funny bear Farney is staring at my funny dad.(present progressive)
-The active monkey will be eating bananas at noon.
-The dog ran quickly. The monkey ate happily.
-We saw some dogs (which were)wearing shoes.
-I don’t believe that you have a photo of a dog (which is)wearing shoes.	
+    I’m not sure.
+    The anxious man used the cell phone to call his open-minded friend because his happy fish was missing from his fishbowl. Together they searched for the missing fish and the fish was in a pond in New York city. So, the two worried friends took a new plane to the busy city. After arriving in the city, the found the small pond in which the fish was building a tent. So, they took the surprised fish back to Seattle on a fast plane. After arriving in Seattle, they put the disappointed fish back in his boring fishbowl.
+    The earth turns every day.
+    The earth turned last night. 
+    The earth will turn tomorrow.
+    The lighting hits something every day. 
+    The lighting hit my father. 
+    On Tuesday the lighting will hit the tree which is growing on your head.
+    The big monster is scaring people right now.
+    The big monster was scaring people when the lighting hit the tree which is growing on your head.
+    The big monster will be scaring people when the lighting hits the tree which is growing on your head.
+    My unhappy dad was reading his dictionary when we were talking about the lighting.(past progressive)
+    My funny bear Farney was listening to us when we were talking about the lighting.
+    My funny bear Farney is staring at my funny dad.(present progressive)
+    The active monkey will be eating bananas at noon.
+    The dog ran quickly. The monkey ate happily.
+    We saw some dogs (which were)wearing shoes.
+    I don’t believe that you have a photo of a dog (which is)wearing shoes.	
 ## September 16, 2019	
 	Boeing Employee Credit Union = BECU
-Freeze froze frozen    flee fled fled
-I don’t think that they treat their pets well.
-They have to take various things into consideration.
-For example, the cost of care fas the remaining life of the pet should be determined.
-It’s prudent to test the recipe for that dish before serving the dish to guests.
-I heard some news about the richest dog in the world.
-The dog inherited much money from his owner.
-We were reluctant to accept such weird behavior.
-She lived alone in her apartment.
-“I don’t know where my apartment is.”
-In advanced = ahead of time
-They depend on their pet for happiness.
-They sit in front of video monitors to watch for traffic violations and report those.
-The great depression (1929—1941) president Frankin Delano Roosevelt.
-They had to determine the value of all of the items which were stored in the garage.
-He refused to fix the car because the replacement part was too expensive.
-The alarm is just a reminder for the class.
-To go through something = to make progress in dealing with something
-Why was this letter capitalized?
-the word “dumpster” has become a genre’s term for any large garbage bin/container.
---to toss it(out)/to throw is away/to discard it /to dis pose of it / to put it in the garbage /trash
---to consolidate several items
---to sell it 
---to keep it / to save it
---to recycle it
---to repurpose it
---to give it away	
+    Freeze froze frozen    flee fled fled
+    I don’t think that they treat their pets well.
+    They have to take various things into consideration.
+    For example, the cost of care fas the remaining life of the pet should be determined.
+    It’s prudent to test the recipe for that dish before serving the dish to guests.
+    I heard some news about the richest dog in the world.
+    The dog inherited much money from his owner.
+    We were reluctant to accept such weird behavior.
+    She lived alone in her apartment.
+    “I don’t know where my apartment is.”
+    In advanced = ahead of time
+    They depend on their pet for happiness.
+    They sit in front of video monitors to watch for traffic violations and report those.
+    The great depression (1929—1941) president Frankin Delano Roosevelt.
+    They had to determine the value of all of the items which were stored in the garage.
+    He refused to fix the car because the replacement part was too expensive.
+    The alarm is just a reminder for the class.
+    To go through something = to make progress in dealing with something
+    Why was this letter capitalized?
+    the word “dumpster” has become a genre’s term for any large garbage bin/container.
+    --to toss it(out)/to throw is away/to discard it /to dis pose of it / to put it in the garbage /trash
+    --to consolidate several items
+    --to sell it 
+    --to keep it / to save it
+    --to recycle it
+    --to repurpose it
+    --to give it away	
 ## September 18, 2019	
 	The Seattle Freeze (phenomenon)
-The bicycle was refurbished.
-The factory created much pollution.
-Would you like some coke?
-Kirkland is the generic brand of Costco.
-The greater Seattle area
-He travels to Mexico twice a year.
-“Touch ’Em All”
-Six degrees of separation.
-Queen Anne (Hill) Kerry Park the stranger (newspaper) Golden Retriever (dog)
-1999 Volkswagen Eurovan 
-Jane Fonda visits Vietnam Hanoi Jane
-POW = prisoner of war
-Garden of Remembrance (behind Benaroya Hall)
-In the French countryside, while riding my bicycle, I met a guy who puts flowers on the grave of my future landlady’s former co-workers' father-in-law.
-My landlady owns a home in Seattle.
-She and her co-worker used to work in a factory in Bellevue.
-The father-in-law (John Blair Carter) died June 6, 1944 on Omaha Beach, in Vierville (sur-mer) Normandy, France.	
+    The bicycle was refurbished.
+    The factory created much pollution.
+    Would you like some coke?
+    Kirkland is the generic brand of Costco.
+    The greater Seattle area
+    He travels to Mexico twice a year.
+    “Touch ’Em All”
+    Six degrees of separation.
+    Queen Anne (Hill) Kerry Park the stranger (newspaper) Golden Retriever (dog)
+    1999 Volkswagen Eurovan 
+    Jane Fonda visits Vietnam Hanoi Jane
+    POW = prisoner of war
+    Garden of Remembrance (behind Benaroya Hall)
+    In the French countryside, while riding my bicycle, I met a guy who puts flowers on the grave of my future landlady’s former co-workers' father-in-law.
+    My landlady owns a home in Seattle.
+    She and her co-worker used to work in a factory in Bellevue.
+    The father-in-law (John Blair Carter) died June 6, 1944 on Omaha Beach, in Vierville (sur-mer) Normandy, France.	
 ## September 21, 2019	
 	There are deer in the fields. 
-The stores had pianos in their windows. 
-Please put the glasses on the shelves.
-The women know the men.
-The babies already have a teeth.
-She showed me photos of sheep.
-Let’s read the stories about the rabbits.
-The girls are buying scarves. (present progressive)
-Let the children eat them.
-The tomatoes are in the bags but the potatoes are in the boxes.
-Compound noun: butter knife school day
-I’m wearing blue pants today (adverb)(time). (present progressive)
-Stylish = cool = fashionable	
+    The stores had pianos in their windows. 
+    Please put the glasses on the shelves.
+    The women know the men.
+    The babies already have a teeth.
+    She showed me photos of sheep.
+    Let’s read the stories about the rabbits.
+    The girls are buying scarves. (present progressive)
+    Let the children eat them.
+    The tomatoes are in the bags but the potatoes are in the boxes.
+    Compound noun: butter knife school day
+    I’m wearing blue pants today (adverb)(time). (present progressive)
+    Stylish = cool = fashionable	
 ## September 23, 2019	
 	He is a very high level monk.
-He can keep your family safe.
-I can sell it for 10,000 RMB.
-He decided to keep the bronze Buddha.
-That was a pretty good reproduction but it isn’t so valuable.
-This year’s Montlake Yard Sale wasn’t as good as sales of previous years. There weren’t as many sellers and the sales weren’t as big.
-All immigrants feel helpless and hopeless.
-I withdrew my membership from all of those churches.
-The night before last, I went to the biggest Chinese Church in Seattle. His boat capsized.
-My cap size is medium.
-Real eyes realize real lies.
-Northwest seaport Sea Shanty Sing
-Museum of History and Industry (MOHAI)
-free on the first Thursday of the month	
+    He can keep your family safe.
+    I can sell it for 10,000 RMB.
+    He decided to keep the bronze Buddha.
+    That was a pretty good reproduction but it isn’t so valuable.
+    This year’s Montlake Yard Sale wasn’t as good as sales of previous years. There weren’t as many sellers and the sales weren’t as big.
+    All immigrants feel helpless and hopeless.
+    I withdrew my membership from all of those churches.
+    The night before last, I went to the biggest Chinese Church in Seattle. His boat capsized.
+    My cap size is medium.
+    Real eyes realize real lies.
+    Northwest seaport Sea Shanty Sing
+    Museum of History and Industry (MOHAI)
+    free on the first Thursday of the month	
 ## September 25, 2019	
 	Indian monks spread the religion in China.
-I found out that the missionaries, who came to China, tried to force people to convert to Christianity.
-Most scholars say something like that.
-Were your goals achieved?
-‘The Prince of Egypt’ is animated movie produced by Steven Spielberg.
-I was struck by the friendliness of the people.
-The Duck is an amphibious vehicle.
-Federal Aviation Administration FAA
-A plane dropped a package containing an inflatable balloon, a hook, a tank and a suit.
-We don’t have a similar sense of humor.	
+    I found out that the missionaries, who came to China, tried to force people to convert to Christianity.
+    Most scholars say something like that.
+    Were your goals achieved?
+    ‘The Prince of Egypt’ is animated movie produced by Steven Spielberg.
+    I was struck by the friendliness of the people.
+    The Duck is an amphibious vehicle.
+    Federal Aviation Administration FAA
+    A plane dropped a package containing an inflatable balloon, a hook, a tank and a suit.
+    We don’t have a similar sense of humor.	
 ## September 30, 2019	
 	Syringe = needle	
 	Were you baptized	
@@ -749,6 +749,312 @@ We don’t have a similar sense of humor.
 	Winnie the pooh	
 	Laurel and hardy 	
 		
+## October 10, 2019
+    Synonyms
+    Antonyms
+    Rectify(v.)
+    Fix(v.)
+    Correct(v.)
+    Vary = differ
+    All
+    Old
+    Memorabilia
+    Re-enact
+    RSVP
+    Living history	I have taken a photo of it.
+    I haven’t taken a photo with it.
+    What does that store sell?
+    You can’t find such old books in China.
+    Because we burned them to keep warm during the wintertime.
+    We wanted to toast marshmallows.
+    So, we made a big pile of books and made a fire over which to toast marshmallows.
+    S’mores = toast marshmallow, chocolate, graham crackers
+    American people eat too much sweet food which makes them stupid and fat.
+    When you find a word of which you don’t know the meaning, you should look it up in the dictionary.
+    I’m living in a stranger’s house and they’re living in mine.
+    In American, there are eighty-one different genders.
+    The Daily Planet
+    I already RSVPed to an event at the art museum.
+    Please RSVP by October 25th.
+## October 14, 2019
+    Palate (n.)
+    Synonym (n.)
+    Life rafts
+    Life boats 
+    Life jackets 
+    Temptation
+    Hallucination
+    Illusion
+    Life vests 
+    Crude
+    Tonal
+    Arabic	Each word has multiple synonyms.
+    We can make our sentences more beautiful with fewer words.
+    He doesn’t want eggs nor bacon.
+    He wants neither eggs nor bacon.
+    I don’t like eggs nor bacon.
+    He was interested in finding the wreckages of WWII vessels.
+    After the ship was struck by two torpedoes, it sank in 12 minutes.
+    Many of the sailors died from dehydration, starvation, drinking saltwater and shark attacks.
+    They were tempted to drink saltwater.
+    They resisted the impulse to drink saltwater.
+    The ship went down in shark-infested waters.
+    She’s good at her major.
+    She will contact you later.
+    Crude by today’s standards those vests absorbed water after two days in the water.
+    They were adrift (adj.) for five days.
+    Every year since 1960, the survivors held a reunion.
+## October 16,2019
+    Suit 
+    Vomit
+    On purpose 
+    Exited 
+    Carcass 
+    Dead body
+    Hover(v.)
+    Feuerzangenbowle	I threw up. = I vomited. = I got sick.
+    U.S. palates desire/prefer sweet things.
+    BaiJu matcher U.S. palates.
+    When eating dumplings, people usually drink alcohol.
+    The more dumplings you eat, the more alcohol you dink and the better you feel.
+    The more dumplings you eat, the more alcohol you dink and the happier you feel.
+    My spirit was cleansed by the process of vomiting.
+    There was a trivia quiz at the bookstore.
+    He had to have his badly injured leg amputated by the doctor.
+    The most bizarre thing
+    The strangest thing by far that I have ever seen was a U.F.O. which delivered a gift for.
+    Devin’s birthday
+
+## October 21, 2019
+    Aesthetical standards
+    Friar = monk
+    Soup
+    Soap
+    Muslims
+    Overslept
+    Endure
+    Nutrient
+    Kingpin
+    Bogeyman	My friend introduced a restaurant to me.
+    I tried but that restaurant and wasn’t impressed.
+    The friar loves cooking chickens in his deep fryer.
+    The Chinese food in Seattle is so bland.
+    The Chinese food in Seattle is not tasty.
+    One and a half hours ago, I observed a Muslim woman praying.
+    Clip = magazine
+    We weren’t able to make eye contact with each other after using the guns.
+    We are going to use a high-caliber gun.
+    We are going to use a gun with a big caliber.
+    I have to change the clock to ensure that winter comes.
+    I gave up learning new words.
+    I gave up smoking. (WHAT?)
+    You discriminate against us.
+## October 23, 2019
+    Jaw 
+    Deaf 
+    Restaurant
+    Baby formula
+    Aboard
+    Abroad
+    Froze
+    Prescription
+    Impeach
+    Constitutional (adj.)
+    Constitution (n.)
+	What do you call this?
+    Arizona is a state in the southwest.
+    One of my students, who is a PH.D. student at the University of Arizona,came here to attend an international conference.
+    I’ll get a round to it later.
+    He is from central America.
+    He looks like a Filipino man.
+    They use inferior quality ingredients in cooking some dishes.
+    If you want non-poisonous baby formula, you can buy it abroad.
+    This is supposed to be 2 for $5.00 but the scanner rang it up at the wrong price.
+    What’s up with that? Could you fix the price on the scanner?
+    In Beijing, there is one of the best public transit systems in the world.
+    You can eat as cheaply or as expensive as you’d like.
+    He could be impeached by Congress.
+    Without a doubt, delivery service in China is superior to that in the U.S.
+    He studies in one of the hottest climates in the U.S. so, he probably won’t want to live in that state permanently.
+    You don’t have a say in the matter. I make the rules.
+    MAGA = Make American Great Again
+    He was found not guilty by the court.
+    It was a miscarriage of justice.
+## October 28, 2019
+    Filter
+    Forceps
+    Loss
+    Elevated
+    Hallucination
+    Headache
+    Conclusion
+    Shake 
+    Hallucinate (v.)
+    Brain
+    Sucked
+    Plan Plane 
+    Pan Pain
+    Stand Stained
+    Hypnosis Hypnotize
+    Brainwashing brainwash (v.)
+    Indoctrination (n.)
+    Indoctrinate (v.)
+    Hermit (n.)
+    Friar (n.) = monk
+    Booby trap	Evidence shows that marijuana use reduces someone’s intelligence.
+    I’m suffering from memory loss already.
+    We lit (up) the joint easily.
+    David didn’t have any unusual feelings after smoking it.
+    David didn’t have any particular feelings after smoking it.
+    Everything around me was lifted up.
+    Everything around me was elevated.
+    Everything around me was floating. 
+    I felt a floating sensation.
+    I felt weightless like an astronaut in space.
+    I felt stoned / high.
+    A: We will build a 100-foot-tall wall between the U.S. and Mexico.
+    B: Are you stoned?
+    I got the munchies after smoking the joint.
+    I can still hear the voices of those guys talking to each other.
+    Where was I when I started smoking this terribly awful joint?
+    I couldn’t keep accurate track of time and space. 
+    Everything melted together and got sucked into the drain.
+    The muscles all over my body began to vibrate.
+    They just sold everything and went off the grid.
+    When we tried to find the hermit, we fell into some booby traps.
+
+## October 30, 2019
+    Authoritarian
+    Gruel
+    Steamed bun
+    Italy
+    Ramen noodles
+    Durian
+    Crested
+    Crashed
+    France
+    French
+    Austria
+    Austrian
+    Switzerland
+    Swiss
+    Anglophile
+    Francophile
+    Americophile
+    Preferences
+    Gravy
+    Caveman
+    Ingredients
+    Aphrodisiac
+    Fluently (adv.)
+    Extrovert
+    Introvert
+    Aardvark 	They spend $4.68 million Euros annually.
+    It took two months to process the visa application.
+    We have a low threshold for entertainment.
+    Why does my university have an exchange program with an Italian university?
+    It’s a discriminatory word.
+    I had an experience here. I ate a piece of lamb and it was so delicious that a want to return to China and quit my professor position to became a lamb farmer.
+    The high-quality meat in America requires no sauce, gravy or seasoning(s).
+    You have a single word for one of our phrases.
+    That sentence explains your country’s situation in a nutshell.
+
+## November 4, 2019
+    Snobby
+    Polite
+    Exterior
+    Finnish / Finland
+    Suburb (n.)
+    Seattleite (n.)
+    Agitated = annoyed
+    Familiar
+    Intestines
+    Residue
+    Boiled
+    Hoisin sauce
+    Oyster sauce
+    Nam pla
+    Nuoc mam
+    White supremacist	The people who work in the tech industry aren’t good at communicating and socializing.
+    I graduated from college with a CS degree.
+    EMP = Experience Music Project
+    That supermarket is managed by people from Vietnam.
+    I’m regretful about some dissatisfying things about the intestines.
+
+## November 6, 2019
+    Memorabilia
+    Mementos
+    Assassination
+    Identical
+    Mild
+    Spicy
+    Flavorless = bland
+    Every aspect
+    Improvise (v.)
+    Plan (n., v.)	There were contrary opinions.
+    Their attitudes were contrary to each other.
+    Perugia is Seattle’s sister city.
+    Seattle Sister City Program
+    They invented such beautiful things.
+    Strengths weaknesses
+    Buy some intestines which were cleaned too much and cook them.
+    I took his phone away from him.
+    The phone malfunctioned shortly after we bought it.
+    How do you measure how funny something is?
+## November 11, 2019
+    Confessed
+    Confession
+    Compensation
+    Condemn (v.)
+    Memoir (“mem ware”)
+    Slit = slashed	You hid it.
+    People still suspect Amanda Knox for the murder of Meredith Kercher.
+    He has the same birthday as Chairman Mao.
+    What do you call a guy online who states his opinion?
+    She was asked to return to Italy.
+    Knox wrote a best-selling book about her experiences in Italy.
+    They had to find a scapegoat to blame for the murder.
+    Thousands of cases go unsolved every year in China.
+    Somebody cut off the hooks
+## November 13, 2019
+    Vegan
+    Walk
+    Scarecrow
+    Old-fashioned (adj.)
+    Out-dated (adj.)
+    Bomb shelter
+    Starring
+    Chaos
+    Folk 
+    Half
+    Calf 
+    Psalm
+    Hymns
+    Hymnal
+    Legally
+    Illegal
+    Sued
+    Szechuan
+    Phlegm = “flem”
+    Honest
+    Gnaw
+    Subtle
+    Solemn
+    Faux
+    Rendezvous
+    Receipt
+    Hungary
+    Entropy
+    Census
+    Proventable	I refuse to sell my John F. Kennedy-era dictionary.
+    It is a cold War-era dictionary.
+    I have watched that movie for many times.
+    Walkens welcome
+    A walk-in = a person who doesn’t have an appointment and simply walks in(to) a shop /an office.
+    I brought a container of Tiger Balm here.
+    A dog can understand a person’s thoughts by determining the person’s mood.
+    If the dog is to be placed with a new family which uses another language, the dog should learn the new family’s language.
+    There instructions are pretty straightforward.
 		
 		
 		
