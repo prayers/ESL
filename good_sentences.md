@@ -1,79 +1,31 @@
 # Good Sentences∗
     Jay
-    2019 年 12 月 16 日 目录
-    1 Silent Letters 3
-    1.1 Words with Silent Letter A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
-    1.2 Words with Silent Letter B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
-    1.3 Words with Silent Letter C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
-    1.4 Words with Silent Letter D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
-    1.5 Words with Silent Letter E . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
-    1.6 Words with Silent Letter G . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
-    1.7 Words with Silent Letter H . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
-    1.8 Words with Silent Letter I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
-    1.9 Words with Silent Letter K . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
-    1.10 Words with Silent Letter L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
-    1.11 Words with Silent Letter N . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
-    1.12 Words with Silent Letter P . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
-    1.13 Words with Silent Letter S . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
-    1.14 Words with Silent Letter T . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
-    1.15 Words with Silent Letter U . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
-    1.16 Words with Silent Letter W . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
-    2 Words with similar spelling 7
-    2.1 -sist- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
-    2.2 -comp- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
-    2.3 -pend- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
-    2.4 -pect- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
-    2.5 -scent- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
-    3 Introduction to myself 15
-    4 The Purge in Hongkong 16
-    5 Never write down a single word 18
-    6 ON William’s Classes 19
-    7 SECOND COLLECTION 25
-    8 Third Collection 29
-    9 Some others 30
-    9.1 The Zen of Python, by Tim Peters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
-    10 GOOD SENTENCES 31
-    11 Take Care How You Hear: How to Receive God’s Word 32
-    11.1 What Are These Words? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
-    11.2 Humility: Defeating the Greatest Threat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
-    11.3 Submission: Welcoming God’s Authority . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
-    11.4 Prayer: Asking God for Help . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
-    11.4.1 1. God, incline and enlarge my heart toward you. . . . . . . . . . . . . . . . . . . . . . . . 34
-    11.4.2 2. Help me understand what I read. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
-    11.4.3 3. Make me diligent to keep your words. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
-    11.4.4 4. Pour your light on the path of my life. . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
-    11.4.5 5. Strengthen me in sorrow. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
-    11.4.6 6. Shield me from every kind of distraction. . . . . . . . . . . . . . . . . . . . . . . . . . . 34
-    11.4.7 7. Keep your promises. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
-    12 IPA Vowel and Consonant Charts 35
-    12.1 Vowel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
-    12.2 Consonants . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
-##   1 SILENT LETTERS 3
-    1 Silent Letters
+    2019 年 12 月 16 日
+##   1 Silent Letters
 ###  1.1 Words with Silent Letter A
-    Artistically [Ar"tIstIklI] Logically ["lAdZIklI] Musically [] Physically [] Critically ["krItIklI]
+    Artistically [Ar"tIstIklI] Logically ["lAʤIklI] Musically [] Physically [] Critically ["krItIklI]
 ###  1.2 Words with Silent Letter B
-    Aplomb [@"plAm](n. 自信，沉着，泰然自若;) Bomb [bAm] Climb [klaIm] Comb [coUm] Coulomb ["kulAm]
+    Aplomb [ə"plAm](n. 自信，沉着，泰然自若;) Bomb [bAm] Climb [klaIm] Comb [coUm] Coulomb ["kulAm]
     Crumb1
     [kr2m] Debt [dEt] Doubt [daUt] Dumb2
-    [d2m] Jamb [dZæm](n. 侧柱，柱状物;) Lamb [læm] Limb3
-    [lIm] Numb [n2m] Plumber ["pl2m@r] Subtle4
-    ["s2tl] Succumb [s@"k2m](vi. 屈服; 死亡;) Thumb [T2m] Tomb
+    [d2m] Jamb [ʤæm](n. 侧柱，柱状物;) Lamb [læm] Limb3
+    [lIm] Numb [n2m] Plumber ["pl2mər] Subtle4
+    ["s2tl] Succumb [sə"k2m](vi. 屈服; 死亡;) Thumb [T2m] Tomb
     [tum] Womb5
     [wum]
 ### 1.3 Words with Silent Letter C
     Abscend [] Abscess6
     ["æb­sEs] Ascend7
-    [@"sEnd] Ascent8
-    [@"sEnt] Conscience9
-    ["kAn(t)S@ns] Conscious10
-    ["kAn(t)S@s] Crescent11 ["krEs@nt] Descend12 [dI"sEnd] Disciple13 [dI"saIp@l] Evanesce14 [­ev@"nes] Fascinate15
-    ["fæs@­neIt] Fluorescent16 [flU"rEs@nt] Muscle ["m2s@l] Obscene17 [@b"sin,Ab"sin] Resuscitate18 [rI"s2sIteIt] Sce￾nario [s@"nærioU] Scene [sin] Scent [sEnt] Science [saI@ns] Scissors ["sIz@rz]
+    [ə"sEnd] Ascent8
+    [ə"sEnt] Conscience9
+    ["kAn(t)Səns] Conscious10
+    ["kAn(t)Səs] Crescent11 ["krEsənt] Descend12 [dI"sEnd] Disciple13 [dI"saIpəl] Evanesce14 [­evə"nes] Fascinate15
+    ["fæsə­neIt] Fluorescent16 [flU"rEsənt] Muscle ["m2səl] Obscene17 [əb"sin,Ab"sin] Resuscitate18 [rI"s2sIteIt] Sce￾nario [sə"nærioU] Scene [sin] Scent [sEnt] Science [saIəns] Scissors ["sIzərz]
 ### 1.4 Words with Silent Letter D
-    Badge19 [bædZ] Edge [EdZ] Handkerchief ["hæNk@rtSIf ] Handsome ["hæNs@m] Hedge20 [hEdZ] Sandwich
-    ["sænwItS ] Wedge21 [] Wednesday [wEdZ]
+    Badge19 [bæʤ] Edge [Eʤ] Handkerchief ["hæNkərtSIf ] Handsome ["hæNsəm] Hedge20 [hEʤ] Sandwich
+    ["sænwItS ] Wedge21 [] Wednesday [wEʤ]
 ### 1.5 Words with Silent Letter E
-    Gene [dZin]
+    Gene [ʤin]
 
     crumb n. 碎屑（尤指面包屑或糕饼屑）; 面包心; 些许，少许; ¡俚¿可鄙的人物; v. 捏碎，弄碎; [烹]裹上面包屑用油煎; 2dumb adj. 哑的; 不能说话的; 主时说不出话的; 不肯徯口的; 愚蠢的; 傻的; 笨的; vt. 使沉默 3Limb n. 肢，翼; 大树枝; 分支; 枝干; vt. 割断…的四肢，肢解; 砍树枝; 4
     subtle adj. 不易察觉的; 不明显的; 微妙的; 机智的; 机巧的; 狡猾的; 巧妙的; 5womb n. 子宫; 发源地，摇篮; vt. 容纳; 6
@@ -97,29 +49,29 @@
 
 ### 1.6 Words with Silent Letter G
     Align1
-    [@"laIn] Assign [@"saIn] Benign2
+    [ə"laIn] Assign [ə"saIn] Benign2
     [bI"naIn] Campaign3
     [kæm"peIn] Champagne [Sæm"peIn] Cologne
-    [k@"loUn] Consign4
-    [k@n"saIn] Design [dI"zaIn] Feign5
-    [feIn] Foreign ["fOr@n] Gnarl6
-    [nAr(@)l] Gnarly7
+    [kə"loUn] Consign4
+    [kən"saIn] Design [dI"zaIn] Feign5
+    [feIn] Foreign ["fOrən] Gnarl6
+    [nAr(ə)l] Gnarly7
     [nArli]
     gnarled8
-    [nAr@ld] Gnome9
+    [nArəld] Gnome9
     [noUm] Reign10 [reIn] Resign11 [rI"zaIn] Sign [saIn]
 ### 1.7 Words with Silent Letter H
-    Ache [ek] Anchor ["æNk@r] Archaeology [­Arki"Al@dZi] Architect ["ArkItekt](建筑师) Chaos ["keIAs] Charac￾ter [] Charisma12 [k@"rIzm@] Chemical [] Chlorine ["klOr­i:n](氯) Choir13 [kwaIr] Chord14 [kOrd] Choreograph15
-    ["kAri@grAf ] Chrome [kroUm] Echo ["ekoU] Ghost [goUst] Honest ["AnIst] Mechanic [MI"kænIk] Monarchy16
-    ["m6n@ki] Orchestra ["OrkIstr@] Psychic ["saIkIk] Rhythm ["rID@m] Scheme17 [skim]
+    Ache [ek] Anchor ["æNkər] Archaeology [­Arki"Aləʤi] Architect ["ArkItekt](建筑师) Chaos ["keIAs] Charac￾ter [] Charisma12 [kə"rIzmə] Chemical [] Chlorine ["klOr­i:n](氯) Choir13 [kwaIr] Chord14 [kOrd] Choreograph15
+    ["kAriəgrAf ] Chrome [kroUm] Echo ["ekoU] Ghost [goUst] Honest ["AnIst] Mechanic [MI"kænIk] Monarchy16
+    ["m6nəki] Orchestra ["OrkIstrə] Psychic ["saIkIk] Rhythm ["rIDəm] Scheme17 [skim]
 ### 1.8 Words with Silent Letter I
-    Parliament ["pArl@m@nt]
+    Parliament ["pArləmənt]
 ### 1.9 Words with Silent Letter K
-    Knack18 [næk] Knead19 [nid] Knee [ni] Kneel20 [nil] Knickers21 ["nIk@rz] Knife [] Knight [] Knitting []
-    Knob22 [n6b] Knock [] Knot23 [nAt] Knuckle24 ["n2k@l]
+    Knack18 [næk] Knead19 [nid] Knee [ni] Kneel20 [nil] Knickers21 ["nIkərz] Knife [] Knight [] Knitting []
+    Knob22 [n6b] Knock [] Knot23 [nAt] Knuckle24 ["n2kəl]
 ### 1.10 Words with Silent Letter L
-    Almond25 ["Am@nd] Balm [bAm] Calf26 [kæf ] Calm [kAm] Chalk [tSOk] Could [kud] Folk [foUk] Half [hæf ]
-    Palm [pAm] Salmon ["sæm@n] Should [SUd] Talk [tOk] Walk [wOk] Would [wUd] Yolk27 [yoUk]
+    Almond25 ["Amənd] Balm [bAm] Calf26 [kæf ] Calm [kAm] Chalk [tSOk] Could [kud] Folk [foUk] Half [hæf ]
+    Palm [pAm] Salmon ["sæmən] Should [SUd] Talk [tOk] Walk [wOk] Would [wUd] Yolk27 [yoUk]
 
     align vt. 使成丐线，使结盟; 排整齐; vi. 排列; 成丐条线; 2benign adj. 温和的，仁慈的; 善良的; 有利于健康的; [医]良性的; 3
     campaign n. 运动; 竞选运动; 战役; 季节性竞赛; vi. 参加[发起]运动，参加竞选; 参战，参加战役; 作战; 4
@@ -149,30 +101,30 @@
     27yolk n. 蛋黄; 卵黄; 羊毛油脂; 胚乳;
 
 ### 1.11 Words with Silent Letter N
-    Autumn ["Ot@m] Column ["kAl@m] Damn [dæm] Hymn1
+    Autumn ["Otəm] Column ["kAləm] Damn [dæm] Hymn1
     [hIm]
 ### 1.12 Words with Silent Letter P
     Coup2
     [ku] Cupboard3
-    ["k2b@rd] Pneumonia4
-    [nu"moUni@] Pseudo5
+    ["k2bərd] Pneumonia4
+    [nu"moUniə] Pseudo5
     ["sudoU] Psychiatrist6
-    [saI"kaI@trIst] Psy￾chic7
+    [saI"kaIətrIst] Psy￾chic7
     ["saIkIk] Psychology8
-    [saI"kAl@dZi] Psychotherapy9
-    [­saIkoU"Ter@pi] 10 [saI"kAtik] Raspberry11 [ræzberi]12
+    [saI"kAləʤi] Psychotherapy9
+    [­saIkoU"Terəpi] 10 [saI"kAtik] Raspberry11 [ræzberi]12
     Receipt [rI"sit]
 ### 1.13 Words with Silent Letter S
-    Aisle13 [aIl] Island ["aIl@nd] Patois14 [pætwA]
+    Aisle13 [aIl] Island ["aIlənd] Patois14 [pætwA]
 ### 1.14 Words with Silent Letter T
-    Apostle15 [@"pAsl] Bristle16 ["brIs@l] Bustle17 ["b2s@l] Butcher ["bUtS@r] Castle ["kæsl] Christmas ["krIsm@s]
-    Fasten18 [fæs@n] Glisten19 ["glIs@n] Hustle20 ["h2s@l] Listen [] Match [mætS ] Moisten21 ["mOIs@n]22 Mortgage [ ]
-    23 Nestle24 ["nesl] Rustle25 ["r2sl] Scratch Soften [] Whistle ["hwIsl] Witch [] Wrestle ["rEs@l]
+    Apostle15 [ə"pAsl] Bristle16 ["brIsəl] Bustle17 ["b2səl] Butcher ["bUtSər] Castle ["kæsl] Christmas ["krIsməs]
+    Fasten18 [fæsən] Glisten19 ["glIsən] Hustle20 ["h2səl] Listen [] Match [mætS ] Moisten21 ["mOIsən]22 Mortgage [ ]
+    23 Nestle24 ["nesl] Rustle25 ["r2sl] Scratch Soften [] Whistle ["hwIsl] Witch [] Wrestle ["rEsəl]
 ### 1.15 Words with Silent Letter U
     Baguette [bæ"get] n.法国长面包; Biscuit ["bIskIt] Build [bIld] Circuit ["s6rkIt] Disguise26 [dIs"gaIz] Guard
     [gArd] Guess [gEs] Guest [gEst] Guild [gIld] n. 行会，协会; 同业公会 Guile [gaIl] n. 奸猾; 狡诈; 背信弃义; 欺骗;
     Guilt [gIlt] Guitar [gI"tAr] Rogue [roUg] n. 流氓，无赖; Silhouette [­sIlu"et]n.轮廓，剪影；（人的）体形；（事物 的）形状; vt.使呈现影子；使呈现轮廓; Tongue27 [t2N] Vogue [voUg]
-    1hymnal ["hImn@l] n. 赞美诗集; adj. 赞美诗的，使用赞美诗的; 2
+    1hymnal ["hImnəl] n. 赞美诗集; adj. 赞美诗的，使用赞美诗的; 2
     coup n. 机敏的策略; 政变; 棒击; 3
     cupboard n. 橱柜; 衣柜; 食物柜; 壁橱 4pheumonia n. [医]肺炎; 急性肺炎 5pseudo adj. 假的，虚伪的; n. [口]假冒的人，伪君子; 6psychiatrist n. 精神病专家，精神病医生; 精神病医生 7psychic adj. 精神的; 超自然的; 灵魂的，心灵的; n. 通灵的或有特异功能的人，巫师; 8psychology n. 心理学; 心理特点; 心理状态; 心理影响; 9psychotherapy n. [医]精神疗法; 心理疗法;
     10psychotic adj. 精神病的; 患精神病的; n. 精神病患者; 疯子;
@@ -196,15 +148,15 @@
 
 ### 1.16 Words with Silent Letter W
     Answer [] Awry1
-    [@"raI] Playwright [] Sword Two Whole Wrack [ræk] n.（在海岸上长的或冲到海岸上的） 海草（用作肥料等）；墨角藻；残败；漂来物; Wrap2
+    [ə"raI] Playwright [] Sword Two Whole Wrack [ræk] n.（在海岸上长的或冲到海岸上的） 海草（用作肥料等）；墨角藻；残败；漂来物; Wrap2
     [ræp] Wrapper [] Wrath [ræT] n. 愤怒; 激怒; Wreath
     [riT] n. 花环; 花圈; （烟、云等的）圈状物; 环状物; v. 环绕; Wreck3
     [rek] Wreckage4
-    ["rEkIdZ] Wren [ren]
+    ["rEkIʤ] Wren [ren]
     Wrench5
     [rEntS ] Wrestling [] Wretched6
     [retSId] wretch [retS ] n.不幸的人；可怜的人；恶棍；坏蛋; Wriggle7
-    ["rIg@l] Wring8
+    ["rIgəl] Wring8
     [rIN] Wrinkle9
     ["rINkl] Wrist [rIst] n.腕，手腕；腕关节 1
     awry adj.扭曲的；斜的；错误的; adv.歪斜地；错误地; 2wrap vt. 包; 缠绕; 用…包裹（或包扎、覆盖等）; 掩护; n. 膝毯，披肩，围巾，围脖，头巾，罩衫，外套，大衣; 包装纸; 〈俚〉机密; vi. 缠绕，盘 绕（通常与 over, around 等连用） 3wreck vt.破坏，毁坏；拆除；使遇难; n.毁灭，失事；遇难船的残骸；（身体或精神上）受到严重损伤的人；状况非常糟糕的车辆（或建筑物等）; vi.使 （船舶）失事，使遇难，使下沉; 4wreckage n. （坠毁物）残片，碎片，残骸; 折断; 失事 5wrench n. 扳手; 扭伤; 突然的悲痛; vt. 扭伤; 扭转; 歪曲; 6wretched adj.不幸的，悲惨的，可怜的；卑鄙的；恶劣的；（用于表示烦恼）讨厌的; 7wriggle vi. 扭动，蠕动，蜿蜒行进; 摆脱，用计逃脱; vt. （使身体某仐部位）扭动; 耍滑不做，逃避（应做的事等）; n. 蠕动，扭动; 8wring vt. 绞，拧; 扭干，绞出; 折磨，使苦恼; 曲解; vi. 蠕动; 扭动; 感到痛苦; 感到苦恼; n. 绞，扭; 紧紧握手; 剧痛; 9wrinkle n.皱纹；妙计，窍门; vt.使起皱纹; vi.起皱纹;
@@ -212,15 +164,15 @@
 ## 2 Words with similar spelling
 ### 2.1 -sist￾
     assist assist1
-    [@"sIst] assister assistant2 unassisted assistance (n. 帮助，援助), unassisted (adj. 无帮助的，独 立的)
+    [ə"sIst] assister assistant2 unassisted assistance (n. 帮助，援助), unassisted (adj. 无帮助的，独 立的)
     consist consist3
-    [k@n"sIst] consistency (n. 连贯; 符合; 前后与致; 浓度); consistent (adj. 丮致的; 连续的; 不 矛盾的; 坚持的), inconsistent, inconsistency, inconsistent with; consist in 坚持; consist of, consistently with;
+    [kən"sIst] consistency (n. 连贯; 符合; 前后与致; 浓度); consistent (adj. 丮致的; 连续的; 不 矛盾的; 坚持的), inconsistent, inconsistency, inconsistent with; consist in 坚持; consist of, consistently with;
     consistence (n. 坚固性，浓度) consistory, (n. 宗教法院，红衣教会议，监督法院) consistorial court (宗教法庭),
-    desist [dI"sIst, -zIst] vi. 停止 desistance [di"sIst@ns] n. 停止，断念, cease and desist 停止并终止,
+    desist [dI"sIst, -zIst] vi. 停止 desistance [di"sIstəns] n. 停止，断念, cease and desist 停止并终止,
     insist insist4
     [In"sIst] insist upon 支持, insist on having the last word. insist on (vi. 坚决地宣告; 督促; 坚持， 强调;)
     persist persist5
-    [p@r"sIst] persistence (n. 坚持不懈; 执意; 持续; 留存，（荧光屏上余辉的）保留时间;), persis￾tent (adj. 持续的; 坚持不懈的; 持久的; 坚持不渝)
+    [pər"sIst] persistence (n. 坚持不懈; 执意; 持续; 留存，（荧光屏上余辉的）保留时间;), persis￾tent (adj. 持续的; 坚持不懈的; 持久的; 坚持不渝)
     resist desist6
     [rI"zIst] resistive (adj. 抗[耐、防]…的; 电阻的) resist fracture (fracture vt.& vi. （使）折断，破 碎;n. 破裂，断裂; 骨折). resistless (adj. 不能抵抗的，无抵抗力的), electric resistance heat (电阻热) resistance
     (n. 抵抗; 阻力; 抗力; 电阻) resistant (adj. 有抵抗力的，抵抗的; 顽固的;n. 抵抗者; 有抵抗力的东西; 防染剂， 防腐剂)
@@ -229,11 +181,11 @@
     (adj. 未遭到阻碍的，自由的) voluntary resistance 自愿抵抗
     sister sisterly (adj. 姐妹亹般的，象姐妹的) weird sisters.
     subsist subsist7
-    [s@b"sIst] subsistence 生计. subsist 生计、生存, nonsubsistence 非生存的 ;
+    [səb"sIst] subsistence 生计. subsist 生计、生存, nonsubsistence 非生存的 ;
 ### 2.2 -comp
     accomplish accomplish8
-    [@"kAmplIS ] accomplishment (n. 成就; 完成; 技能; 履行) unaccomplished (adj. 无成 就的; 无才艺的; 无能的; 未完成的)
-    compages [kAm"peIdZIz] n. 组合，构造
+    [ə"kAmplIS ] accomplishment (n. 成就; 完成; 技能; 履行) unaccomplished (adj. 无成 就的; 无才艺的; 无能的; 未完成的)
+    compages [kAm"peIʤIz] n. 组合，构造
     compact compact9
     [kAm"pækt] uncompact compaction compactness
     1
@@ -246,33 +198,33 @@
     compact vt.& vi. 压紧，（使）坚实; 把…弄紧密，把…弄结实; 使（文体）简洁，简化; 变紧密，变结实; adj. 紧凑的; 简洁的，（文体等）紧凑的; 小巧易携带的; （物质）致密的，（体格）结实的;
 
     company accompany1
-    [@"k2mp@ni, @"k2mpni] accompanist (n. 伴奏者;) accompaniment (n. 伴奏; 伴随物)
-    accompanying unaccompanied [­2n@"k2mp@nid] adj. 无人陪伴的; 无人伴随的; 无伴侣的; ¡音¿无伴奏的;
+    [ə"k2mpəni, ə"k2mpni] accompanist (n. 伴奏者;) accompaniment (n. 伴奏; 伴随物)
+    accompanying unaccompanied [­2nə"k2mpənid] adj. 无人陪伴的; 无人伴随的; 无伴侣的; ¡音¿无伴奏的;
     companion 2
-    [k@m"pænj@n] companionable [k@m"pænj@n@b@l]adj. 友善的，表示友好的;
+    [kəm"pænjən] companionable [kəm"pænjənəbəl]adj. 友善的，表示友好的;
     compare compare3
-    [k@m"per] comparable ["kAmp@r@bl] (adj. 可比较的; 比得上的;) incomparable (adj. 无 双的; 无敌的，无比的; 无可比拟; 无与伦比;) comparison [k@m"pærIs@n] (n. 比较，对照; [语]比喻; 比较级)
+    [kəm"per] comparable ["kAmpərəbl] (adj. 可比较的; 比得上的;) incomparable (adj. 无 双的; 无敌的，无比的; 无可比拟; 无与伦比;) comparison [kəm"pærIsən] (n. 比较，对照; [语]比喻; 比较级)
     comparative 4
     incomparability comparatively
-    compart [k@m"pArt] vt. 分隔; compartment5
-    [k@m"pArtm@nt] compartition [kAmpA"tIS@n]n. 分弆; 划分;
+    compart [kəm"pArt] vt. 分隔; compartment5
+    [kəm"pArtmənt] compartition [kAmpA"tISən]n. 分弆; 划分;
     分劈; 分配;
-    compass ["k2mp@s,"kAm-] n. 罗盘; 指南针; 圆规; 界限 compassion6
-    [k@m"pæS@n] compassionate7
-    [k@m"pæS@nIt]
+    compass ["k2mpəs,"kAm-] n. 罗盘; 指南针; 圆规; 界限 compassion6
+    [kəm"pæSən] compassionate7
+    [kəm"pæSənIt]
     uncompassionate (adj. 无同情心的，冷酷无情的;) incompassionate (adj. 无同情心的) incompassionateness (冷 漠) encompass8
-    [En"k2mp@s] encompassment (包含)
+    [En"k2mpəs] encompassment (包含)
     compat n. 兼容性 compatibility9
-    [k@m­pæt@"bIl@tI] compatible10 [k@m"pæt@b@l] incompatible11
-    compatriot compatriot [k@m"peItri@t] n. 同胞; 同国人; adj. 同国人的; 同胞的;
-    compeer [k@m"pIr] n. 地位相同的人，伙伴;
-    compel [k@m"pEl]vt. 强迫; 强制发生，使不得不 compelling12 [k@m"pElIN] compellation [kOmp@"leIS@n] n.
+    [kəm­pætə"bIlətI] compatible10 [kəm"pætəbəl] incompatible11
+    compatriot compatriot [kəm"peItriət] n. 同胞; 同国人; adj. 同国人的; 同胞的;
+    compeer [kəm"pIr] n. 地位相同的人，伙伴;
+    compel [kəm"pEl]vt. 强迫; 强制发生，使不得不 compelling12 [kəm"pElIN] compellation [kOmpə"leISən] n.
     称呼他人姓名,姓名
-    compend ["k6mpend] n. 手册概要，概略; compendium [k@m"pEndi@m] n. 摘要，纲要; compendious
-    compense ["kAmpens] compensate13 ["kAmpenseIt] compensation14 [­kAmpen"seISn] compensatory [­k6mpen"seIt@rI]adj.
-    补偿性的; 代偿; recompense15 ["rEk@m­pEns]
-    compete compete16 [k@m"pit] competition17 [­kAmp@"tISn] competitive18 [k@m"pEtItIv] competitor [k@m"pEtIt@r]
-    (竞争者; 对手) competent19 ["kAmpIt@nt]; competence20 competency21 incompetence incompentency incompe-
+    compend ["k6mpend] n. 手册概要，概略; compendium [kəm"pEndiəm] n. 摘要，纲要; compendious
+    compense ["kAmpens] compensate13 ["kAmpenseIt] compensation14 [­kAmpen"seISn] compensatory [­k6mpen"seItərI]adj.
+    补偿性的; 代偿; recompense15 ["rEkəm­pEns]
+    compete compete16 [kəm"pit] competition17 [­kAmpə"tISn] competitive18 [kəm"pEtItIv] competitor [kəm"pEtItər]
+    (竞争者; 对手) competent19 ["kAmpItənt]; competence20 competency21 incompetence incompentency incompe-
 
     accompany vt. 陪伴，陪同; 附加，补充; 与…共存; 为…伴奏; vi. 伴奏; 2
     companion n. 同伴; [天]伴星(= star); （用于书名）指南; 同甘共苦的伙伴; vt. 同行; 陪伴 3vt.& vi. 比较，对照; vt. 比拟，喻为; [语]构成; vi. 相比，匹敌; 比较，区别; 比拟（常与to连用）; n. 比较; 4
@@ -297,28 +249,28 @@
 
     tent
     compile compile1
-    [k@m"paIl] compilation [­kAmpI"leISn] (n. 编辑; 汇编) encompilation 汇编
-    complacent complacent [k@m"ples@nt] adj. 自满的; 自鸣得意的; 踌躇满志; 志得意满; complacency (n. 自满， 满足; 自鸣得意;)
+    [kəm"paIl] compilation [­kAmpI"leISn] (n. 编辑; 汇编) encompilation 汇编
+    complacent complacent [kəm"plesənt] adj. 自满的; 自鸣得意的; 踌躇满志; 志得意满; complacency (n. 自满， 满足; 自鸣得意;)
     complain complain2
-    [k@m"pleIn] complaint3
+    [kəm"pleIn] complaint3
     complainer4 uncompliant
-    complaisance complaisance [k@m"ples@ns, -z@ns] (n. 讨好，殷勤;) complaisant5 uncomplaisant (无拘无束)
-    compleat compleat [k@m"plit] (adj. 有造诣的，非常熟练的;)
-    complect complect [k@m"plect] (v. 交织，编织;)
+    complaisance complaisance [kəm"plesəns, -zəns] (n. 讨好，殷勤;) complaisant5 uncomplaisant (无拘无束)
+    compleat compleat [kəm"plit] (adj. 有造诣的，非常熟练的;)
+    complect complect [kəm"plect] (v. 交织，编织;)
     complement complement6
-    ["kAmplIment] complemental [­k6mpl@"ment@l] (adj. 补足的，补充的;) comple￾mentary [­kAmplI"mentri] (adj. 互补的; 补充的，补足的;)
+    ["kAmplIment] complemental [­k6mplə"mentəl] (adj. 补足的，补充的;) comple￾mentary [­kAmplI"mentri] (adj. 互补的; 补充的，补足的;)
     complete complete7
-    [k@m"plit] completely8
-    [k@m"pli:tli] completion9
-    [kAm"pliS@n] completeness incomplete
+    [kəm"plit] completely8
+    [kəm"pli:tli] completion9
+    [kAm"pliSən] completeness incomplete
     incompletely incompleteness noncompletion([法] 不履行;) uncompleted
-    complex complexus(n. 头半棘肌，复合肌;) complexify complexion10 [k@m"plEkS@n] complexity
-    compliance compliance11 [k@m"plaI@ns] compliant12 incompliance noncompliance
-    complicate complicate13 ["kAmplIkeIt] complicity14 [k@m"plIsIti] complication15 [­kAmplI"keISn] uncomplicate
+    complex complexus(n. 头半棘肌，复合肌;) complexify complexion10 [kəm"plEkSən] complexity
+    compliance compliance11 [kəm"plaIəns] compliant12 incompliance noncompliance
+    complicate complicate13 ["kAmplIkeIt] complicity14 [kəm"plIsIti] complication15 [­kAmplI"keISn] uncomplicate
     complicated
-    complice ¡古¿同伙，共犯; accomplice [@"kAmplIs] n. 共犯; 帮凶; She became his unwitting (adj.不知道的，未 觉察的；无意的) accomplice in the robbery
-    accomplish [@"kAmplIS ] vt. 完成; 达到（目的）; 走完（路程、距离等）; 使完美;
-    compliment compliment16 ["kAmplIm@nt] complimentary17 [­kAmplI"mentri]
+    complice ¡古¿同伙，共犯; accomplice [ə"kAmplIs] n. 共犯; 帮凶; She became his unwitting (adj.不知道的，未 觉察的；无意的) accomplice in the robbery
+    accomplish [ə"kAmplIS ] vt. 完成; 达到（目的）; 走完（路程、距离等）; 使完美;
+    compliment compliment16 ["kAmplImənt] complimentary17 [­kAmplI"mentri]
     1
     compile vt. 汇编; 编辑; 编制; 编译; 2
     complain vi. 抱怨，诉苦; 申诉，控诉，抗议; vt. 诉说，申诉，控告[后面常跟从句];
@@ -340,15 +292,15 @@
     17complimentary adj. 表示敬意的; 赞美的; 恭维的; 赠送的; adv. 崇敬地，赞美地，赞许地;
 
     complot complot ["kAm­plAt] n. 共谋，阴谋; v. 共谋，图谋;
-    comply comply [k@m"plaI] vi. 遵从; 依从，顺从; 应允，同意; uncomplying (adj. 不依从的，不顺从的;)
+    comply comply [kəm"plaI] vi. 遵从; 依从，顺从; 应允，同意; uncomplying (adj. 不依从的，不顺从的;)
     compo n. 混合涂料，灰泥，工伤赔偿;
-    comport comport [k@m"pOrt] vt. 表现; n. 举动，行为; comportment n. 举动，行为;
-    compose [k@m"poUz] component1
-    [k@m"poUn@nt] composite2
-    [k@m"pAz@t] composure3
-    [k@m"poUZ@r] com￾positor4
-    [k@m"pAzIt@r] composition5
-    [­kAmp@"zISn] decompose [­dik@m"poUz] (vt.& vi. 分解; （使）腐烂;) dis￾compose [­dIsk@m"poUz] (vt. 使不安，使烦恼;) decomposition n. 分解; 腐烂; undecomposed discomposure n.
+    comport comport [kəm"pOrt] vt. 表现; n. 举动，行为; comportment n. 举动，行为;
+    compose [kəm"poUz] component1
+    [kəm"poUnənt] composite2
+    [kəm"pAzət] composure3
+    [kəm"poUZər] com￾positor4
+    [kəm"pAzItər] composition5
+    [­kAmpə"zISn] decompose [­dikəm"poUz] (vt.& vi. 分解; （使）腐烂;) dis￾compose [­dIskəm"poUz] (vt. 使不安，使烦恼;) decomposition n. 分解; 腐烂; undecomposed discomposure n.
     心乱，不安; composed6
     composer decomposed
     compost compost ["kAmpoUst] n. 堆肥; 混合，合成; vt. 施堆肥; 把（蔬菜等）制成堆肥;
@@ -358,12 +310,12 @@
     [­kAmprI"hend] comprehension n. 理解，理解力 comprehensive8
     incomprehensi￾bility comprehensibility incomprehensible incomprehension
     compress compress9
-    [k@m"prEs] compressible compression incompressibility compressibility uncompressed in￾compressed compressed incompressible
-    comprise comprise [k@m"praIz] vt. 包含，包括; 由…组成; 由…构成;
-    compromise compromise10 ["kAmpr@maIz] compromised uncompromising
-    comptroller [k@n"troUl@(r)] n. 审计员; 检查官;
-    compulsion compulsion [k@m"p2lS@n] n. 强迫; 强制; 冲动; 打动人的力量; compulsory [k@m"p2lS@ri] adj. 必须 做的，强制性的; 义务的; 必修的;
-    compunction compunction [k@m"p2NkS@n] n. 内疚，后悔，懊悔; compunctious [k@m"p2NkS@s] adj. 悔的，惭 愧的，内疚的; 1
+    [kəm"prEs] compressible compression incompressibility compressibility uncompressed in￾compressed compressed incompressible
+    comprise comprise [kəm"praIz] vt. 包含，包括; 由…组成; 由…构成;
+    compromise compromise10 ["kAmprəmaIz] compromised uncompromising
+    comptroller [kən"troUlə(r)] n. 审计员; 检查官;
+    compulsion compulsion [kəm"p2lSən] n. 强迫; 强制; 冲动; 打动人的力量; compulsory [kəm"p2lSəri] adj. 必须 做的，强制性的; 义务的; 必修的;
+    compunction compunction [kəm"p2NkSən] n. 内疚，后悔，懊悔; compunctious [kəm"p2NkSəs] adj. 悔的，惭 愧的，内疚的; 1
     component n. 成分; 零件; [数]要素; 组分; adj. 组成的; 合成的; 构成的; 成分的; 2
     composite adj. 混合成的，综合成的; [建]综合式的; [数]可分解的; [植]菊科的; n. 合成物，混合物，复合材料; [植]菊科植物; 3
     composure n. 镇静，沉着; 头脑镇定或沉着的状态; 4
@@ -376,9 +328,9 @@
     10compromise n. 妥协; （名誉等的）损害; 妥协（或折中）方案; 折中物; vi. 折中解决; 妥协，逌让; vt. 违背（原则）; 连累; （尤指因行为不很明 智）使陷入危险;
 
     compute computability
-    nincompoop ["nInk@m"pup] n. 傻子，无用的人
+    nincompoop ["nInkəm"pup] n. 傻子，无用的人
 ### 2.3 -pend
-    append vt. 附加; 添加; 贴上; 签（名） appendage n. 附属物; 依附的人; appendicitis [@­pEndI"saItIs]n. 阑尾 炎; appendix
+    append vt. 附加; 添加; 贴上; 签（名） appendage n. 附属物; 依附的人; appendicitis [ə­pEndI"saItIs]n. 阑尾 炎; appendix
     compend n. 手册概要，概略; compendious adj. 扼要的，简要的; adv. 扼要地，简要地; n. 扼要，简要;
     compendium n. 摘要，纲要;
     depend dependant n. 家眷，侍从，食客; 受赡养者; 寄人篱下的仆从; adj. 相关的; 附属的; 随…而变的;
@@ -387,7 +339,7 @@
     expenditure n. 花费，支出; 费用，经费
     impend vi. 进行威胁，即将发生; impending adj. 即将发生的，迫在眉睫的; 迫切的; 悬挂的;
     pendant n. （装在项链等上的）垂饰，坠儿;
-    pendulum ["pendZ@l@m] n. 摆，钟摆; 摇摆不定的事态（或局面）; pendulate ["pendjUleIt] n. 摇摆不定， 犹豫; pendulous ["pendZ@l@s] adj. 吊着的，下垂的，摆动的; 摆式; 悬垂; pendulum clock
+    pendulum ["penʤələm] n. 摆，钟摆; 摇摆不定的事态（或局面）; pendulate ["pendjUleIt] n. 摇摆不定， 犹豫; pendulous ["penʤələs] adj. 吊着的，下垂的，摆动的; 摆式; 悬垂; pendulum clock
     pend vi. 悬而未决; pendency n. 垂下，悬垂，悬而未决;
     pendent adj. 吊着的; 下垂的; 悬垂的; 悬而未决的;
     pending
@@ -409,38 +361,38 @@
 ### 2.4 -pect￾prospect prospect1
     ["prAspekt]
     perspective perspective2
-    [p@r"spektIv]
-    pectinate pectinate ["pekt@­neIt] adj. 梳状的，栉齿状的; pectination [pektI"neIS@n] n. 梳状，梳理;
-    expectorate [Ik"spekt@reIt] v. 咳出，吐痰;
-    spectroscope ["spektr@skoUp] n. 分光镜; spectrometer 分光仪
+    [pər"spektIv]
+    pectinate pectinate ["pektə­neIt] adj. 梳状的，栉齿状的; pectination [pektI"neISən] n. 梳状，梳理;
+    expectorate [Ik"spektəreIt] v. 咳出，吐痰;
+    spectroscope ["spektrəskoUp] n. 分光镜; spectrometer 分光仪
     inspect vt. 检查，检验; 视察;vi. 进行检查; 进行视察; inspection reinspect
-    conspection [k@n"spekS@n] n. Observation with understanding conspectuity
-    introspection [­Intr@"spEkS@n] n. 反省，内省; 自我反省
+    conspection [kən"spekSən] n. Observation with understanding conspectuity
+    introspection [­Intrə"spEkSən] n. 反省，内省; 自我反省
     spectator specter spectator n. 观众，旁观者; specter/spectre n. 鬼怪; 幽灵; 缠绕心头的恐惧; 凶兆;
-    spectacle ["spEkt@k@l] spectacle n. 眼镜; 奇观，壮观; 光景，景象; 表演，场面;
+    spectacle ["spEktəkəl] spectacle n. 眼镜; 奇观，壮观; 光景，景象; 表演，场面;
     spectacular adj. 场面富丽的，壮观的; 引人注意的; 惊动亨时的; 惊人的; n. 壮观的场面，精彩的表演; 〈美〉 丆小时半以上的大场面电视节目; 特大霓虹灯广告;
     spectacularly 壮观地，令人吃惊地;
-    circumspection [­s@rk@m"spEkS@n] n. 细心，慎重; circumspect adj. 谨慎小心的，周到的; circumspective
+    circumspection [­sərkəm"spEkSən] n. 细心，慎重; circumspect adj. 谨慎小心的，周到的; circumspective
     adj. 慎重的，细心的;
-    retrospective [­rEtr@"spEktIv] adj. 回顾的；怛旧的；[法]有追溯力的；可追溯的; n. 回顾展;
+    retrospective [­rEtrə"spEktIv] adj. 回顾的；怛旧的；[法]有追溯力的；可追溯的; n. 回顾展;
     suspect suspend suspect vt. 猜疑（是）; 总疑，不信任; 总疑…有罪; n. 嫌疑犯; vi. 怮疑;
     suspend v. 暂停; 延缓; 挂; 悬;
     conspectus n. ¡正¿概要，大纲，丌览表;
     respective [rI"spEktIv]adj. 各自的，分别的; respectively adv. 各自地; 各个地; 分别地;
     respect vt. 尊重; 尊敬; 关心; 遵守; n. 尊重，恭敬; 敬意; 某方面; 1prospect n. 前景; 期望; 眺望处; 景象; vi. 勘探; 勘察; （矿等）有希望; 有前途; vt. 找矿; 对…进行仔细调查; 2perspective n. 透镜，望远镜; 观点，看法; 远景，景色; 洞察力; adj. （按照）透视画法的; 透视的;
 
-### 2.5 -scent￾acescent [@"ses@nt] adj. 变酸的; 发酸;
+### 2.5 -scent￾acescent [ə"sesənt] adj. 变酸的; 发酸;
     acquiescent [­ækwI"esnt] adj. 默认的;
-    adolescent [­æd@"lesnt] n. 少年，少女; adj. 青春期的; 青少年的; 未成熟的;
+    adolescent [­ædə"lesnt] n. 少年，少女; adj. 青春期的; 青少年的; 未成熟的;
     arescent [æ"resnt] n. 干燥，变干;
-    ascent [@"sEnt] n. 上升; 登高; 上坡; 追溯; ascend vt. 攮登; 继承; 占领; vi. 上升; 爬坡; 追溯;
+    ascent [ə"sEnt] n. 上升; 登高; 上坡; 追溯; ascend vt. 攮登; 继承; 占领; vi. 上升; 爬坡; 追溯;
     ascendant adj. 向上的; 优越的; 占支配地位的; n. 占优势的; 运星，命宫; 祖先; in the ascendant 力量(或影 响）正在增长的 the reformers are in the ascendant.
     ascendent n. 幸运星; 运道; 支配力; 优势; ascendance/ascendence n. 优势，权势，主权; ascendancy/ascendency
     n. 优势，优越，权势;
-    canescent [k@"nes@nt] adj. 变灰白的;
-    coalescent [k@U@"lesnt] adj. 接合的，结合的，合并的; n. 合并，接合，联合;
+    canescent [kə"nesənt] adj. 变灰白的;
+    coalescent [kəUə"lesnt] adj. 接合的，结合的，合并的; n. 合并，接合，联合;
     concupiscent []adj. 沉迷情欲的，好色的，贪欲的;
-    convalescent [­kAnv@"lesnt]adj. 恢复（期）的，康复期的; n. 恢复期的病人;
+    convalescent [­kAnvə"lesnt]adj. 恢复（期）的，康复期的; n. 恢复期的病人;
     crescent ["krEsent] n. 新月，月牙; 伊斯兰教的标记; adj. 新月形的; 渐圆的，渐强的; crescentic 新月形的;
     deliquescent adj. 溶解的，溶解性的;
     delitescent adj. 潜伏的;
@@ -450,13 +402,13 @@
     effervescent adj. 冒泡的，兴奋的; efflorescent adj. 弮花的，风化的; erubescent adj. 变红的; virescent
     adj. 弮始呈现绿色的，淡绿色的，带绿的; iridescent adj. 彩虹色的; （随位置不同而）变色的，闪色的; 小 配件; nigrescent adj. 发黑的; opalescent adj. 发乳白色光的; phosphorescent adj. 发出磷光的，磷光性的;
     pubescent adj. 思春期的，有软毛的; putrescent adj. 将腐烂的，腐败的; quiescent adj. 不活动的，静态的; 休 眠的; reminiscential adj. 回忆往事的; luminescent adj. 发冷光的，发光的;
-    evanescent [­Ev@"nEs@nt] adj. 迅速消失遗忘的，短暂的; 生命无常;
-    fluorescent [flU"rEs@nt] adj. 荧光的; 发荧光的; （颜色、材料等）强烈反光的; 发亮的; n. ¡美口¿荧光灯; 日 光灯; fluorescent lamp
+    evanescent [­Evə"nEsənt] adj. 迅速消失遗忘的，短暂的; 生命无常;
+    fluorescent [flU"rEsənt] adj. 荧光的; 发荧光的; （颜色、材料等）强烈反光的; 发亮的; n. ¡美口¿荧光灯; 日 光灯; fluorescent lamp
     incalescent adj. 渐热的，温度渐增的;
 
-    incandescent [­Ink@n"dEs@nt] adj. ¡术¿白热的; 白炽的; ¡正¿十分明亮的; ¡正¿感情强烈的; incandescent
+    incandescent [­Inkən"dEsənt] adj. ¡术¿白热的; 白炽的; ¡正¿十分明亮的; ¡正¿感情强烈的; incandescent
     lamp
-    nascent ["næs@nt] adj. 初期的; 初生的; 弻始形成的; 发生中的;
+    nascent ["næsənt] adj. 初期的; 初生的; 弻始形成的; 发生中的;
     renascent [rI"neIsnt] adj. 新生的; 再生的，复兴的;
     scent n. 香味，气味; 嗅觉; （动物的）臭迹; 痕迹，踪迹; vt. 闻到; 察觉，发觉; 使充满…的气味; 发出气味;
     vi. 发出…的气味; 有…的迹象; 嗅着气味追赶; get scent of 嗅到了 on the scent （在寻找或调查中）获得线索
@@ -501,8 +453,8 @@
     
     1pragmatic [præg"mætic]adj.实用主义的、实用的、好管闲事的、国事的;n.爱管闲事的人、专断的人、国事诏书、务实的人 2
     agnostic [æg"nAstIk]adj/n 不可知论者。atheist ["eTiIst]无神论者 3
-    introverted ["Intr@v3rtId] 内向的 4punny ["p2nI] 九语双关的 5
-    shenanigan [ S@"nænIg@n]恶作剧 6
+    introverted ["Intrəv3rtId] 内向的 4punny ["p2nI] 九语双关的 5
+    shenanigan [ Sə"nænIgən]恶作剧 6
     cuisine [kwI"zin]美食
 
 ## 4 The Purge in Hongkong
@@ -547,20 +499,20 @@
     endure another day of misery. China moving troops to Hong Kong border amid intensifying protests. Sunday
     
     1
-    copula ["kApj@l@]系动词 
+    copula ["kApjələ]系动词 
     2
     as of : used to indicate the time or date from which something starts.
     3
-    territory ["ter@tOri] 版图、势力范围、领域、范围 
+    territory ["terətOri] 版图、势力范围、领域、范围 
     4
-    escalate ["Esk@­leIt]v.逐步上升 
-    5 besiege [bI"sidZ]包围，如被询问或纠缠，使感到丧气 
+    escalate ["Eskə­leIt]v.逐步上升 
+    5 besiege [bI"siʤ]包围，如被询问或纠缠，使感到丧气 
     6 unleash [2n"liS ] 解忣...皮带，放纵，解除...束缚，发泄 
     7
     get caught up 被卷入 
-    8 pledge [plEdZ]n.保证，誓言；公约；(表示为友谊的)干杯。vi.发誓、保证.vt.许诺、向...祝酒。vi. 作出庄重有约束力的誓言; 祝愿，祝酒; 
-    9 defiant dI"faI@ntadj. 挑衅的; 蔑视的; 大胆的; 目中无人的;
-    10 insurrection [­Ins@"rEkS@n]n. 造反; 暴动; 叛乱;
+    8 pledge [plEʤ]n.保证，誓言；公约；(表示为友谊的)干杯。vi.发誓、保证.vt.许诺、向...祝酒。vi. 作出庄重有约束力的誓言; 祝愿，祝酒; 
+    9 defiant dI"faIəntadj. 挑衅的; 蔑视的; 大胆的; 目中无人的;
+    10 insurrection [­Insə"rEkSən]n. 造反; 暴动; 叛乱;
 
     Hong Kong protests Round up. Two Hong Kong protesters charged with violating anti-mask law. Hong Kong
     leader invokes emergency powers to ban masks during protests . Hong Kong protestor speaks about possibility
@@ -616,7 +568,7 @@
     All the graphs and data were shown/displayed.
     1词性 
     2Seattle的第丬天 3
-    collide [k@’laId] vi.相撞; 碰撞; 冲突; 抵触;
+    collide [kə’laId] vi.相撞; 碰撞; 冲突; 抵触;
 
     You should pay more attention to puns. Americans get upset when another person invades their personal
     space. People like to post photos on social media. The museum gets free publicity / advertising. We have never
@@ -758,7 +710,7 @@
     Every one on the bus will be a guest on my planet. I will treat you very well and you can live very long. Some
     
     1
-    respiratory ["resp@r@tOri] adj. 呼吸的; 2by any chance
+    respiratory ["respərətOri] adj. 呼吸的; 2by any chance
     3
     lisp n. 咬舌，口齿不清（把s音发成th音） vt.& vi. （说话）咬舌（把s音发成th音） 4
     tripod [摄]三脚架; 5nickel,dime, penny, cent
@@ -853,10 +805,10 @@
     their signatures on the posters.
     He killed several potential successors8. 1neither...nor...
     2prudent ["prudnt] adj. 小心的，慎重的; 精明的，节俭的; 顾虑周到的，稳健的; 世故的，精明的; 3
-    reluctant [rI"l2kt@nt] adj. 不情愿的，勉强的; 顽抗的; 难处理的; 厌恶的; 4n. 废料箱; 5
-    amphibious [æm"fIbi@s]adj. 两栖的; 水陆两用的; 两栖作战的; 具有双重性的; 6nigh [naI]adv. 接近地; 靠近地; 几乎; 在附近地; adj. 近的; 直接的; prep. 在…附近; 近于; 7
+    reluctant [rI"l2ktənt] adj. 不情愿的，勉强的; 顽抗的; 难处理的; 厌恶的; 4n. 废料箱; 5
+    amphibious [æm"fIbiəs]adj. 两栖的; 水陆两用的; 两栖作战的; 具有双重性的; 6nigh [naI]adv. 接近地; 靠近地; 几乎; 在附近地; adj. 近的; 直接的; prep. 在…附近; 近于; 7
     forge [fOrÃ]n. 锻造车间; 熔铁炉，锻铁炉; 铁匠铺，铁匠工场; vi. 锻制，锻造; 伪造; 犯伪造罪; vt. 锻造; 伪造; 捏造，编造; 制订; 8
-    successor [s@k"sEsÄ]n. 接替的人或事物; 继承人，继任者;
+    successor [sək"sEsÄ]n. 接替的人或事物; 继承人，继任者;
 ##   7 SECOND COLLECTION 
     You are much more beautiful than you sound.
     After the “check engine” light comes on, you should take your car to be inspected by a mechanic.
@@ -898,9 +850,9 @@
     My spirit was cleansed11 by the process of vomiting. There was a trivia quiz at the bookstore. He had to have
     1
     sermon n. 布道; 讲道; 讲道文章; 主大通教训; 2
-    infringement [In"frInÃm@nt]n. 侵权; 违反; 违背; 3RSVP derived from the French phrase abbr. Reply,if you please 请回复; 4
-    synonym ["sIn@­nIm]n. 同义词; 5vessel ["vEs@l]n. 容器; 船，飞船; 血管，管束; …的化身; 6
-    torpedo [tOr"pidoU]n. 鱼雷; 油井爆破筒; [鱼]电鯆; 职业杀手; vt. 用鱼雷袭击; 破坏; （在油井内）装置爆破筒; 使失去（活动能力等）; 7dehydration [­dihaI"dreS@n]n. 脱水; 干燥，极度口渴; 失水; 8
+    infringement [In"frInÃmənt]n. 侵权; 违反; 违背; 3RSVP derived from the French phrase abbr. Reply,if you please 请回复; 4
+    synonym ["sInə­nIm]n. 同义词; 5vessel ["vEsəl]n. 容器; 船，飞船; 血管，管束; …的化身; 6
+    torpedo [tOr"pidoU]n. 鱼雷; 油井爆破筒; [鱼]电鯆; 职业杀手; vt. 用鱼雷袭击; 破坏; （在油井内）装置爆破筒; 使失去（活动能力等）; 7dehydration [­dihaI"dreSən]n. 脱水; 干燥，极度口渴; 失水; 8
     infest [In"fEst]vt. 大批出没，成群出现; 在…上寄生，寄生于; 骚扰; 9
     crude [krud] adj. 粗糙的，粗杂的; 粗鲁的; 天然的，未加工的; 简陋的; n. 原[生]材料，天然物质; 原油;
     10vomit ["vOmIt]vt.& vi. 呕吐; 大量喷出; n. 呕吐，呕吐物; 催吐剂;
@@ -950,13 +902,13 @@
     
     1
     amputate ["æmpjuteIt] vt. （用外科手术）截（肢等）; 切断; 砍掉; 删除; 2
-    friar ["fraI@r]n. （天主教的）男修士; 化缘修士; 3bland [blænd] adj. 温和的，和蔼的; 平和的; 味道温和的; 无动于衷的; 4
-    ammunition [­æmij@"nIS@n] n. 弹药，军火; ¡废¿军鞛品; ¡比喻¿战斗手段; 子弹; 5
-    caliber ["kæl@b@r] n. 口径; 能力; 水准; 枪弹的直径; 6
-    inferior [In"fIri@(r)] adj. （质量等）低劣的; 下级的，下等的; （位置在）下面的; [植]下位的; n. 部下，下属; 次品; 晚辈; [印]下角码; 7
-    superior [su"pIri@(r)] adj. （级别、地位）较高的; 较好的; （数量）较多的; 上等的; n. 上级; 较好的人[事物]，优胜者; 修道院院长; 方丈; 8munchies ["m2ntSiz] n. ¡口¿饥饿感，吃点心欲；快餐，小吃; 9drain [dren] vi. 排水; 流干; vt. 喝干; 使（精力、金钱等）耗尽; 使流出; 排掉水; n. 排水; 下水道;
+    friar ["fraIər]n. （天主教的）男修士; 化缘修士; 3bland [blænd] adj. 温和的，和蔼的; 平和的; 味道温和的; 无动于衷的; 4
+    ammunition [­æmijə"nISən] n. 弹药，军火; ¡废¿军鞛品; ¡比喻¿战斗手段; 子弹; 5
+    caliber ["kæləbər] n. 口径; 能力; 水准; 枪弹的直径; 6
+    inferior [In"fIriə(r)] adj. （质量等）低劣的; 下级的，下等的; （位置在）下面的; [植]下位的; n. 部下，下属; 次品; 晚辈; [印]下角码; 7
+    superior [su"pIriə(r)] adj. （级别、地位）较高的; 较好的; （数量）较多的; 上等的; n. 上级; 较好的人[事物]，优胜者; 修道院院长; 方丈; 8munchies ["m2ntSiz] n. ¡口¿饥饿感，吃点心欲；快餐，小吃; 9drain [dren] vi. 排水; 流干; vt. 喝干; 使（精力、金钱等）耗尽; 使流出; 排掉水; n. 排水; 下水道;
     10booby trap n. 诡雷，陷阱; v. 在…安陷阱;
-    11discriminatory [dI"skrImIn@tOri] adj. 有识别力的; 差别对待的; 歧视性;
+    11discriminatory [dI"skrImInətOri] adj. 有识别力的; 差别对待的; 歧视性;
     12gravy ["greIvi] n. 肉汁，肉卤; 〈美俚〉非法所得的钱，意外之财;
 
     or seasoning(s)1.
@@ -996,16 +948,16 @@
     student asked.
     There was a 1000-vote gap in the final count, with Referendum-88 failing. Opponents of Referendum 88 won
     by 1,000 votes. The Redsox won by two runs, 6-4. The seahawks won by six points, 30-24.
-    pagoda [p@"goUd@] n. 塔，宝塔;
+    pagoda [pə"goUdə] n. 塔，宝塔;
     apostle6/disciple7 
     
     1
-    seasoning ["siz@nIN] n. 调味品，佐料; 风干，干燥（处理），老化; 2
+    seasoning ["sizənIN] n. 调味品，佐料; 风干，干燥（处理），老化; 2
     in a nutshell (简誀之; 主註以蔽之; 简单地; 简约地;)
     3
     scaptegoat n. 代人受过的人，替罪羊; 替身; vt. 使…成为替罪羊; 4
     straightforward adj. 直截了当的; 坦率的; 明确的; adv. 直截了当地; 坦率地; 5pry [praI] vi. 窥探，打探; vt. 撬徬; 费力地得到; n. 窥探; 撬杠; 爱打探的人; 6
-    apostle [@"pAsl] n. 使徒; 早期基督教的传教士; 摩门教教会的十二个行政执事之一; （改革运动的）倡导者; 7disciple [dI"saIp@l] n. 信徒，追随者; 门徒，弟子; 耶稣的信徒; [宗]耶稣十二门徒之一;
+    apostle [ə"pAsl] n. 使徒; 早期基督教的传教士; 摩门教教会的十二个行政执事之一; （改革运动的）倡导者; 7disciple [dI"saIpəl] n. 信徒，追随者; 门徒，弟子; 耶稣的信徒; [宗]耶稣十二门徒之一;
 
     illegality/legality1
     constitutional law
@@ -1025,8 +977,8 @@
     doesn’t say, ”You can’t live like that.”
     carp=koi (bottomfeeder)/carping = complaining central to = important to
     to be fed up with = to be sick and tired of
-    fraternity [fr@"t6rn@ti] n. 兄弟会; 大学生联谊会; 友爱. sorority [s@"rOr@ti] n. 妇女联谊会，女学生联谊会.
-    harassed ["hær@st] adj. 疲倦的; 厌烦的;
+    fraternity [frə"t6rnəti] n. 兄弟会; 大学生联谊会; 友爱. sorority [sə"rOrəti] n. 妇女联谊会，女学生联谊会.
+    harassed ["hærəst] adj. 疲倦的; 厌烦的;
     Eskimo ["eskImoU] n. 爱斯基摩人; 爱斯基摩语; adj. 爱斯基摩人的. Inuit ["InjuIt] n. 因纽特人（北美的爱斯基 摩人）; 因纽特语; adj. 因纽特人的
     herbivore ["6rbIvO(r)] n. 食草动物. carnivore [kArnIvOr] n. 食肉动物. omnivore ["AmnIvOr] n. 杂食动物.
     They get together with their friends to celebrate the holidays. They marry a person. They get married to a
@@ -1035,10 +987,10 @@
     Spineless7/cowardly people like to eat boneless chicken breasts.
     He got on his knees and begged her not to divorce him. She’s the black sheep (害群之马，败家子) of the family.
     They walked down the aisle last month = They got married last month.
-    Our English teacher is approximately [@"prAksIm@tli] in her forties.
+    Our English teacher is approximately [ə"prAksImətli] in her forties.
     I got baptized yesterday. My baptism was perfect. he centuries-old ritual8
     seems headed for extinction
-    [Ik"stINkS@n].
+    [Ik"stINkSən].
     The spirit should make my mother go to church. I hope the spirit makes my mom go to church.
     Devin delivered this speech after my own speech.
     The two religions are drastically9 different. We believe in Buddha from birth.
@@ -1050,27 +1002,27 @@
     
     1
     legality [li"gælIti] n. 合法性; 墨守法规; 法律上的义务; 2
-    agile ["ædZl] adj. 灵巧的; 轻快的; 灵活的; 机敏的; 3
-    constitutional [­kAnst@"tuS@nl] adj. 宪法的，符合宪法的; 本质的; 体质上的; 保健的; n. 保健运动; 保健散步; 4
-    in vain 白费地; 徒劳无益地; 无效果的; 无用的; 5disown vt. 否认，否认与…有关系，断绝与…的关系; 6discriminate [dI"skrIm@­neIt]
+    agile ["æʤl] adj. 灵巧的; 轻快的; 灵活的; 机敏的; 3
+    constitutional [­kAnstə"tuSənl] adj. 宪法的，符合宪法的; 本质的; 体质上的; 保健的; n. 保健运动; 保健散步; 4
+    in vain 白费地; 徒劳无益地; 无效果的; 无用的; 5disown vt. 否认，否认与…有关系，断绝与…的关系; 6discriminate [dI"skrImə­neIt]
     7
     spineless ["spaInlIs] adj. ¡贬¿没有骨气的，懦弱的; （动物）无脊椎的; 8
-    ritual ["rItSu@l] n. （宗教等的）仪式; 例行公事，老规矩; 典礼; adj. 作为仪式的亄部分的; 礼节性的; 例行公事的; 9drastically ["dræstIklI] adv. 大大地，彻底地; 激烈地;
-    10immolate ["Im@leIt] vt. 宰杀…作祭品
+    ritual ["rItSuəl] n. （宗教等的）仪式; 例行公事，老规矩; 典礼; adj. 作为仪式的亄部分的; 礼节性的; 例行公事的; 9drastically ["dræstIklI] adv. 大大地，彻底地; 激烈地;
+    10immolate ["IməleIt] vt. 宰杀…作祭品
     8 THIRD COLLECTION 29
     He took my words literally. It is hard to free fools from the chains they revere1.
     8 Third Collection
     con artist (诈骗犯、骗子) protectorate (受保护国) cabinet door (橱柜门) bounty hunter (["baUnti] 赏金猎人)
-    mercenary ["m6rs@neri] = soldier of fortune = gun for hire (雇佣兵)
-    The apostropher2 and ”s” indicate possession [p@"zES@n]. I have highlighted the unfamilar terms in blue.
+    mercenary ["m6rsəneri] = soldier of fortune = gun for hire (雇佣兵)
+    The apostropher2 and ”s” indicate possession [pə"zESən]. I have highlighted the unfamilar terms in blue.
     I have gotten used to using a smart phone. I have grown/become accustomed3
     to using a smart phone. I’m not
-    used to parallel ["pær@­lEl] parking.
+    used to parallel ["pærə­lEl] parking.
     You had to take various factors into consideration when planning the trip. May i have a question? Which
     factors did you take into consideration when you planned your model?
     She has lived in Seattle since 1980/ the 1980s. She has been living in Seattle since the 1980s. She is in her 70s.
     She is 78.
-    perpetual calendar (perpetual [p@r"petSu@l] adj. 永久的; 不断的; 无期限的; 四季彣花的;)
+    perpetual calendar (perpetual [pər"petSuəl] adj. 永久的; 不断的; 无期限的; 四季彣花的;)
     segway (站立式两轮电动车) / segue ["sEg­weI] n. （用作指示语）继续;
     Republican / Democrate
     The company will launch a new product next month.
@@ -1081,10 +1033,10 @@
     I’m struggling to find the suitable words to express this. How can I phrase5/put it?
     That day has been designated6
     the memorial7 day of the Nanking massacre8.
-    Martin Luther King Jr.["dZunj@r] was born on Januery 15th. However, his birthday is observed9 on the third
+    Martin Luther King Jr.["ʤunjər] was born on Januery 15th. However, his birthday is observed9 on the third
     monday of January.
     He was of Irish Descent.
-    feasibility [fi:z@"bIl@ti] content ["kA:n­tEnt] arterial [A@r"tirij@l] material [m@"tirij@l]
+    feasibility [fi:zə"bIləti] content ["kA:n­tEnt] arterial [Aər"tirijəl] material [mə"tirijəl]
     The brake assembly got stuck in the front wheel and I flipped over / the bike flipped over.
     Regretfully, I haven’t found a way out of the mess.
     the methods languishing in the lab
@@ -1098,9 +1050,9 @@
     
     1
     revere [rI"vIr] (respect) vt. 崇敬; 尊崇; 敬畏; 2
-    apostropher [@"pAstr@fi] n. 撇号; 省略符号; 所有格符号; 3
-    accustomed [@"k2st@md] adj. 习惯的; 通常的; 独有的; 适应的; 4
-    assort vt. 把…分类; vi. 相配; 相称 ; 交际; 交往; 5phrase vt. 叙述，措词; 6designate ["dEzIg­neIt] vt. 指明，指出; 指派; 表明，意味着; 把…定名为; adj. 指定而尚未上任的; 选出而尚未上任的; 7memorial [m@"mOri@l] n. 纪念碑，纪念物; 纪念仪式; adj. 纪念的; 悼念的; 8massacre ["mæs@k@r] n. 大屠杀，残杀; （牲畜的）成批屠宰; vt. 屠杀，残杀; 损害，毁坏; ¡口¿彻底击败; ¡口¿惨败; 9
+    apostropher [ə"pAstrəfi] n. 撇号; 省略符号; 所有格符号; 3
+    accustomed [ə"k2stəmd] adj. 习惯的; 通常的; 独有的; 适应的; 4
+    assort vt. 把…分类; vi. 相配; 相称 ; 交际; 交往; 5phrase vt. 叙述，措词; 6designate ["dEzIg­neIt] vt. 指明，指出; 指派; 表明，意味着; 把…定名为; adj. 指定而尚未上任的; 选出而尚未上任的; 7memorial [mə"mOriəl] n. 纪念碑，纪念物; 纪念仪式; adj. 纪念的; 悼念的; 8massacre ["mæsəkər] n. 大屠杀，残杀; （牲畜的）成批屠宰; vt. 屠杀，残杀; 损害，毁坏; ¡口¿彻底击败; ¡口¿惨败; 9
     observe :celebrate or acknowledge (an anniversary)
 ## 9 Some others
 ###   9.1 The Zen of Python, by Tim Peters
@@ -1131,7 +1083,7 @@
     explicit [Ik"splIsIt] adj.明确的，清楚的；直諴的；详述的；不隐瞒的; 2
     implicit [Im"plIsIt]adj. 不訍明[含蓄]的; 无疑问的，绝对的; 成为一部份的; 内含的; 3
     explicitly [Ik"splIsItlI]adv.明白地，明确地; 4
-    ambiguity [­æmbI"gju:@ti]n.含糊；意义不明确；含糊的话，模棱两可的话；可作两种或多种解释; 5preferably ["prEf@r@blI]adv. 更可取地，更好地，宁可; 6
+    ambiguity [­æmbI"gju:əti]n.含糊；意义不明确；含糊的话，模棱两可的话；可作两种或多种解释; 5preferably ["prEfərəblI]adv. 更可取地，更好地，宁可; 6
     implementation [­ImplImen"teISn]n.成就；贯彻；implement的变形；安装启用;
 
 ##   10 GOOD SENTENCES
@@ -1153,16 +1105,16 @@
     We can expect China to stay strong at least for the next few decades to come.
     1
     scapegoat n. 代人受过的人，替罪羊; 替身; vt. 使…成为替罪羊; 2
-    convince [k@n"vIns]vt. 使相信，说服，使承认; 使明白; 使确信; 使悔悟，使认错[罪];
+    convince [kən"vIns]vt. 使相信，说服，使承认; 使明白; 使确信; 使悔悟，使认错[罪];
     3patriotic [­peItri"OtIk]
-    4prominent ["prOmIn@nt]
+    4prominent ["prOmInənt]
     5
-    significant [sIg"nIfIk@nt]
+    significant [sIg"nIfIkənt]
     6
-    catastrophe [k@"tæstr@fi]n. 大灾难; 惨败; 悲剧的结局; 地表突然而猛烈的变动，灾变; 7
-    inevitable [In"evIt@bl]adj. 不可避免的; 必然发生的; ¡非正¿总会发生的; 必然发生的事; 8moral adj. 道德的，道义上的; 精神上的; 无疑的，当然的; 教导道德的; n. 寓意，教训; （尤指男女间的）品行; 格証; 〈古〉相对者; 9decay [dI"keI]vt.& vi. （使）腐烂，腐朽; vi. 衰败，衰遰，衰落; n. 腐败、衰遰的状态;
+    catastrophe [kə"tæstrəfi]n. 大灾难; 惨败; 悲剧的结局; 地表突然而猛烈的变动，灾变; 7
+    inevitable [In"evItəbl]adj. 不可避免的; 必然发生的; ¡非正¿总会发生的; 必然发生的事; 8moral adj. 道德的，道义上的; 精神上的; 无疑的，当然的; 教导道德的; n. 寓意，教训; （尤指男女间的）品行; 格証; 〈古〉相对者; 9decay [dI"keI]vt.& vi. （使）腐烂，腐朽; vi. 衰败，衰遰，衰落; n. 腐败、衰遰的状态;
     10ethic [’ETIk] n. 伦理，伦理观; 道德体系; （复数）伦理学，道德学; （复数）行为准则;
-    11ascendancy [@"sEnd@nsi]n. 优势，支配地位; 支配倾向; ascend [@"sEnd] vt. 攮登; 继承; 占领; vi. 上升; 爬坡; 追溯; ascendance [@"sEnd@ns]n.
+    11ascendancy [ə"sEndənsi]n. 优势，支配地位; 支配倾向; ascend [ə"sEnd] vt. 攮登; 继承; 占领; vi. 上升; 爬坡; 追溯; ascendance [ə"sEndəns]n.
     优越，权势，主权;
     
 ## 11 Take Care How You Hear: How to Receive God’s Word
@@ -1199,19 +1151,19 @@
     “All Scripture17 is breathed out by God” (2 Timothy 3:16–17). Every word came from the infinite wisdom
     and imagination of God. Every sentence, paragraph, and book was conceived18 by the Author of life, the
     Alpha and Omega19, the Lord of heaven and earth. Nothing in the Bible made it into our hands without first
-    1peril ["pEr@l] n. 危险; 冒险; vt. 置…于危险中; 危及; 2parable ["pær@b@l] n. 寓諓; 格証; 3
-    sower ["soU@(r)] n. 播种者; 播种机; 传播者; 煽动者; 4wither ["wIDÄ] vt. 使枯萎; 使畏缩; 使衰弱; vi. 凋谢; 衰弱; 萎缩; 5
+    1peril ["pErəl] n. 危险; 冒险; vt. 置…于危险中; 危及; 2parable ["pærəbəl] n. 寓諓; 格証; 3
+    sower ["soUə(r)] n. 播种者; 播种机; 传播者; 煽动者; 4wither ["wIDÄ] vt. 使枯萎; 使畏缩; 使衰弱; vi. 凋谢; 衰弱; 萎缩; 5
     choke [ÙoUk] vt.& vi. 阻止，扼止; 填塞; 使窒息; 哽咽; n. 窒息，哽咽; 拥塞; （车辆发动机的）阻风门; 6
-    thorn [TOrn] n. 刺; 棘刺，荆棘; 带刺的植物; 刺痛; 7Pharisee ["færisi:z] n. 法利赛人; 自以为公正善良的人; 自以为有道德的人; 伪君子; 8prone [proUn] adj. 易于…的; 俯卧的; 有…倾向的; 倾斜的，坡陡的; 9vigilance ["vIÃ@l@ns] n. ¡正¿警觉; 警惕; 警戒; ¡医¿失眠症;
-    10disciple [dI"saIp@l] n. 信徒，追随者; 门徒，弟子; 耶稣的信徒; [宗]耶稣十二门徒之一;
-    11relentlessly [rI"lentl@slI] adv.无情地；残酷地；不懈地；不屈不挠地;
+    thorn [TOrn] n. 刺; 棘刺，荆棘; 带刺的植物; 刺痛; 7Pharisee ["færisi:z] n. 法利赛人; 自以为公正善良的人; 自以为有道德的人; 伪君子; 8prone [proUn] adj. 易于…的; 俯卧的; 有…倾向的; 倾斜的，坡陡的; 9vigilance ["vIÃələns] n. ¡正¿警觉; 警惕; 警戒; ¡医¿失眠症;
+    10disciple [dI"saIpəl] n. 信徒，追随者; 门徒，弟子; 耶稣的信徒; [宗]耶稣十二门徒之一;
+    11relentlessly [rI"lentləslI] adv.无情地；残酷地；不懈地；不屈不挠地;
     12plead [plid] vi. 恳求; 辩论; vt. 以…为理由; 陈述案情; 申辩，认罪，辩护; vt.& vi. 申诉，答辩，为…辩护;
     13water v. 给…浇水; 供以水; 加水稴释; 流泪;
     14stake [stek]n. 桩; 刑柱; 股份; （在公司、计划等中的）重大利益; vt. 用桩支撑; 以…下注[打赌]; 用桩区分，界分;
-    15shuffle [S2f@l] vt. 洗牌; 曳脚而行; 搬移; 搁置，随手放; vi. 曳脚走; 跳曳步舞; 移动; 推诿; n. 洗牌，混乱，蒙混; 拖着脚走;
+    15shuffle [S2fəl] vt. 洗牌; 曳脚而行; 搬移; 搁置，随手放; vi. 曳脚走; 跳曳步舞; 移动; 推诿; n. 洗牌，混乱，蒙混; 拖着脚走;
     16galaxy n. 星系; 银河系; 主群显赫的（出色的）人物;
-    17Scripture ["skrIptS@r]n. 经文，圣典; 文稿;
-    18conceive [k@n"siv] vt.& vi. 怮孕; 构思; 想像，设想; 持有; vi. 怮孕; 设想; 考虑;
+    17Scripture ["skrIptSər]n. 经文，圣典; 文稿;
+    18conceive [kən"siv] vt.& vi. 怮孕; 构思; 想像，设想; 持有; vi. 怮孕; 设想; 考虑;
     19the Alpha and Omega 首尾; 始终; 全部; 主要成分;
     11 TAKE CARE HOW YOU HEAR: HOW TO RECEIVE GOD’S WORD 33
     passing through his.
@@ -1293,14 +1245,14 @@
     O (A:) [O] cot bomb Vietnam
     O: [O:] caught paw
     E [E] bet fed
-    @ [@] about banana collide
+    ə [ə] about banana collide
     3 [3] i [i] very any thirty
     i: [i:] eat bead bee
     I [I] id bid pit
     U [U] foot should put
     u: [u] boot two coo
     2 [2] under putt bud
-    Ä [textrhookschwa] (r-colored @) merge bird further
+    Ä [textrhookschwa] (r-colored ə) merge bird further
     eI [eI] eight wade bay
     aI [aI] ice bite tie
     aU [aU] out gown plow
@@ -1313,11 +1265,11 @@
     uÄ [u] boor tour insure
     6 [6] British cot bomb
     O: [O:] British caught paw port
-    @: [@:] British merge bird
-    @U [@U] British oat own zone blow
-    I@ [I@] British near deer
-    E@ [E@] British bare fair
-    U@ [U@] British boor tour
+    ə: [ə:] British merge bird
+    əU [əU] British oat own zone blow
+    Iə [Iə] British near deer
+    Eə [Eə] British bare fair
+    Uə [Uə] British boor tour
 
 ### 12.2 Consonants
     b [b] baby labor cab
