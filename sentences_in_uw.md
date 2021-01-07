@@ -48,7 +48,7 @@
 	I’ll apply for a parking permit to park on campus.	
 	Time flies so fast. Time flew by so fast.	
 ```
-	July 1, 2019 (HUB Hall Way)(with Devin accompanied)
+## July 1, 2019 (HUB Hall Way)(with Devin accompanied)
 	How should I say, I can make a presentation to you during the lesson. 	
 	How should I go to that place?	
 	Almost two months ago,we arrived in Seattle. 	
@@ -84,7 +84,7 @@
 	Very few people live in a house.	
 	What does “collide” mean?	
 	I like to express my opinions with stories.	
-	7/2/2019
+## 7/2/2019
 	I spoke about various aspects of daily life.	
 	They wanted independence from China.	
 	throw threw thrown  	
@@ -114,7 +114,7 @@
 	I found an interesting thing.	
 	I won’t judge other people’s opinions.	
 	Time is almost up. 	
-	July 5, 2019
+## July 5, 2019
 	Puns: butterfly butter fly	
 	We don’t have to give service people a tip.	
 	It will be held at 4 pm.	
@@ -140,7 +140,7 @@
 	30 baseball games	
 	I can give him a ride as long as we both wear a helmet .	
 	I can give him a ride as long as we wear helmets .	
-	7/8/2019
+## 7/8/2019
 	I have a translated copy of my Chinese driver’s license.	
 	Your license will be mailed to you in one or two weeks.	
 	He told me about something which happened in his classroom.	
@@ -160,8 +160,8 @@
 	We both went on a tour of the city at the same time. 	
 	Are you married?	
 	Have you ever been married?	
-	 They made much money from trade with America. 	
-	7/9/19
+	They made much money from trade with America. 	
+## 7/9/19
 	I didn’t see your tongue came through your teeth.	
 	I’m not a shy person.	
 	It is very easy to communicate with people. 	
@@ -188,7 +188,7 @@
 	I had flashbacks of that movie.	
 	I like horror movies.	
 	It was a horror movie which wasn’t so scary. 	
-	July 12, 2019
+## July 12, 2019
 	I was on the fourth floor when the building started to sway.	
 	Many people were gathered outside the building.	
 	I eat salmon raw/uncooked.	
@@ -216,7 +216,7 @@
 	He walked up to us and said, “how are you doing?”	
 	He came up to us and said, “how are you doing?”	
 	He has a narrow outlook on life.	
-	July 15, 2019
+## July 15, 2019
 	Their native names can be written in Chinese.	
 	That dictionary is very good for me.	
 	I have some confusion = I’m confused.	
@@ -232,7 +232,7 @@
 	They need to be taken care of.	
 	That’s not necessarily true.	
 	They will bring shame to their kids by going there.	
-	July 16, 2019
+## July 16, 2019
 	Active vocabulary / passive vocabulary	
 	Manchuria	
 	The manchurian candidate	
@@ -249,7 +249,7 @@
 	It was taken by Russia in 1920.	
 	I’ve never heard of such a thing.	
 	I don’t think nor behave like ordinary Chinese people.	
-	July 19, 2019
+## July 19, 2019
 	You can share it with your other students.	
 	What was your major in college?	
 	The two major are totally unrelated.	
@@ -267,7 +267,7 @@
 	They set themselves on fire after pouring gasoline on themselves, one of the girls survived.	
 	People commit suicide for stupid reasons.	
 		
-	July 22, 2019
+## July 22, 2019
 	Who asked me to stay there?	
 	Did Devin get attacked by a dog?	
 	Did Devin get attacked by a cat?	
@@ -288,7 +288,7 @@
 	They make the right to vote.	
 	They make voting rights.	
 	Stop the killing of Chinese people!	
-	July 23, 2019
+## July 23, 2019
 	I feel powerless/helpless in dealing with my son who gets out of control sometimes.	
 	He abused his power.  They sound similar to English words.	
 	Each character has multiple meanings.	
@@ -304,7 +304,7 @@
 	I can’t ten the age of American people.	
 	I can’t ten how old American are.	
 	Andie mcdowell	
-	July 26 2019
+## July 26 2019
 	We were awakened by the landlord and his wife who were moving around In the middle of the night?	
 	She is much a silly girl.	
 	She made me feel young again.	
@@ -322,7 +322,7 @@
 	I get distracted by Devin.	
 	Why can’t I pronounce the word “world”?	
 	Before you carry out your action, I will prevent you from hitting me.	
-	July 29, 2019
+## July 29, 2019
 	I have to plan a schedule for them.	
 	Dancing is boring.	
 	What do you call it?	
@@ -335,7 +335,7 @@
 	He was not treated well in china.	
 	I don’t want Devin to get used to that environment.	
 	He can’t get used to that environment.	
-	July 30, 2019
+## July 30, 2019
 	You need to climb to a higher floor.	
 	You need to go upstairs to a higher floor.	
 	I raise my head to see the moon.	
@@ -355,9 +355,9 @@
 	The relationship broke down.	
 	What should I call them?	
 	They threw him on the sofa very hard.	
-	 My number was called eventually.	
+	My number was called eventually.	
 	By a black woman who looked like Halley berry.	
-	August 2, 2019
+## August 2, 2019
 	He is a Caucasian - American.	
 	What do you call this thing?	
 	I can recognize his face every time.	
@@ -382,7 +382,7 @@
 	I want to buy one.	
 	I want to buy one.	
 	reduced speech	
-	August 5, 2019
+## August 5, 2019
 	Take and bake pizza	
 	I’m asking you what that means.	
 	We didn’t plan to go to the air show.	
@@ -399,7 +399,7 @@
 	I’m just looking. Thank you.	
 	Is it possible to get a discount on this item?	
 	I can imagine that Trump will be re-elected for a second term.	
-	August 6, 2019
+## August 6, 2019
 	I just passed by that neighborhood 	
 	From Hiroshima to Hope 2019	
 	The traffic conditions here are also bad.	
@@ -409,7 +409,7 @@
 	We have some things related to humor in common.	
 	I just passed by that neighborhood 	
 	The traffic conditions here are also bad.	
-	August 9, 2019
+## August 9, 2019
 	I pump the gas into the tank.	
 	I pay after pumping the gas.	
 	Could I pay (for the gas) after pumping (it)?	
@@ -432,7 +432,7 @@
 	If I had another chance at life, I would not get married.	
 	Mike was a host father for several Chinese exchange students.	
 	Only wealthy families can send their children to study abroad	
-	August 26, 2019
+## August 26, 2019
 	The monster wore two masks. He wanted to scare a Japanese man who was taking a photo of the fountain and he got on the plane to fly to japan to scare more people. 	
 	Stop monkeying around.	
 	Guiding my parents around was extremely tiring.	
@@ -462,7 +462,7 @@
 	The turtle used the flashlight to cross the bridge and he used the key to open the door of the pyramid.	
 	The turtle found two masks which he put on his face. After that, he walked into a tall building. There was an apple tree near the building. Under the tree, the turtle found a tent.	
 	The unhappy man ate an apple then he wanted to pick a flower. But someone said: “don’t pick the flowers！” So, he didn’t pick the flower and returned to his house.	
-	August 27, 2019	
+## August 27, 2019	
 	A nickel is worth 5 cents and a dime is worth 10 cents.	
 	They complained about everything.	
 	The senior citizens of China like to show off their wealth and social status.	
@@ -477,7 +477,7 @@
 	The bee was lost. Because he wanted to find the key for the house. So, he found the key but he couldn’t go back to his house because he had to go smell some flowers all around the world. The arrow on his compass didn’t work well. So, he just navigated using the sun and the stars.	
 	I pay my bus fare.	
 	The nervous man used the abacus to calculate the bus fare for the bus driver. When the space alien got on the bus, the man calculated the alien’s fare to be $2500. the space alien said,”okay, here’s $2500. now, i own this bus. You must drive the bus as fast as a shooting star to fly back to my planet. Every one on the bus will be a guest on my planet. I will treat you very well and you can live very long. Some earth people on my planet are 400 years old. There’re many wonderful houses where you can stay and enjoy the healthiest food in the universe.	
-	August 30, 2019	
+## August 30, 2019	
 	She was hit in the eye very hard with a rubber bullet, blinding her in one eye.	
 	If the president sends troops to Hong Kong, I won’t agree with that action and I with support the protesters.	
 	The democratic principles of China are totally different from those of the U.S.	
@@ -501,7 +501,7 @@
 	In Beijing, I can distinguish non-Chinese people from Chinese people.	
 	Roots Church was established by Korean people.	
 	Would you like to go to that yard sale?
-I haven’t seen him for three months.	
+    I haven’t seen him for three months.	
 	I mistook a guy for Mike. That guy pretended not to see me.	
 	His face looked like Mike’s (face).	
 	I suffered some hearing loss as a kid. So, I don’t hear very well.	
@@ -510,7 +510,7 @@ I haven’t seen him for three months.
 	All Chinese people will pronounce it like “Jesus Christ.”	
 	I have made some progress with my pronunciation.	
 	The teacher asked a rhetorical question.	
-	September 3, 2019	
+## September 3, 2019	
 	You have to establish good study and practice habits.	
 	You have to motivate yourself to keep working towards the goal which you imagine in your heart and mind. 	
 	Have a great positive, no-wasting time attitude.	
@@ -518,7 +518,7 @@ I haven’t seen him for three months.
 	Can you feel the energy? Be (the) water! Just do it! 	
 	Improve your English! Buy my eBook!	
 	I’m considering changing my church.	
-	September 9, 2019	
+## September 9, 2019	
 	Overreacting
 She teaches us some reduced speech
 When I'm writing, I can organize my sentences very well
@@ -548,7 +548,7 @@ The worker at the department of licensing took an unflattering photo of me for m
 I hung the painting on the wall.
 I don’t like it enough to bother going to the house to get it back.
 	
-	September 12, 2019	
+## September 12, 2019	
 	Let’s take a look at the PDG payoff matrix.
 T is greater than R is greater than P is greater than S
 0.1=zero point one
@@ -568,7 +568,7 @@ False-confidence
 Overconfidence
 Our English isn’t as good as we thought it was.
 They have neither the desire nor the ability to point out one’s mistakes.	
-	September 14, 2019	
+## September 14, 2019	
 	I think both are Okay.
 I’m not sure.
 The anxious man used the cell phone to call his open-minded friend because his happy fish was missing from his fishbowl. Together they searched for the missing fish and the fish was in a pond in New York city. So, the two worried friends took a new plane to the busy city. After arriving in the city, the found the small pond in which the fish was building a tent. So, they took the surprised fish back to Seattle on a fast plane. After arriving in Seattle, they put the disappointed fish back in his boring fishbowl.
@@ -588,7 +588,7 @@ The active monkey will be eating bananas at noon.
 The dog ran quickly. The monkey ate happily.
 We saw some dogs (which were)wearing shoes.
 I don’t believe that you have a photo of a dog (which is)wearing shoes.	
-	September 16, 2019	
+## September 16, 2019	
 	Boeing Employee Credit Union = BECU
 Freeze froze frozen    flee fled fled
 I don’t think that they treat their pets well.
@@ -617,7 +617,7 @@ the word “dumpster” has become a genre’s term for any large garbage bin/co
 --to recycle it
 --to repurpose it
 --to give it away	
-	September 18, 2019	
+## September 18, 2019	
 	The Seattle Freeze (phenomenon)
 The bicycle was refurbished.
 The factory created much pollution.
@@ -636,7 +636,7 @@ In the French countryside, while riding my bicycle, I met a guy who puts flowers
 My landlady owns a home in Seattle.
 She and her co-worker used to work in a factory in Bellevue.
 The father-in-law (John Blair Carter) died June 6, 1944 on Omaha Beach, in Vierville (sur-mer) Normandy, France.	
-	September 21, 2019	
+## September 21, 2019	
 	There are deer in the fields. 
 The stores had pianos in their windows. 
 Please put the glasses on the shelves.
@@ -650,7 +650,7 @@ The tomatoes are in the bags but the potatoes are in the boxes.
 Compound noun: butter knife school day
 I’m wearing blue pants today (adverb)(time). (present progressive)
 Stylish = cool = fashionable	
-	September 23, 2019	
+## September 23, 2019	
 	He is a very high level monk.
 He can keep your family safe.
 I can sell it for 10,000 RMB.
@@ -665,7 +665,7 @@ Real eyes realize real lies.
 Northwest seaport Sea Shanty Sing
 Museum of History and Industry (MOHAI)
 free on the first Thursday of the month	
-	September 25, 2019	
+## September 25, 2019	
 	Indian monks spread the religion in China.
 I found out that the missionaries, who came to China, tried to force people to convert to Christianity.
 Most scholars say something like that.
@@ -676,7 +676,7 @@ The Duck is an amphibious vehicle.
 Federal Aviation Administration FAA
 A plane dropped a package containing an inflatable balloon, a hook, a tank and a suit.
 We don’t have a similar sense of humor.	
-	September 30, 2019	
+## September 30, 2019	
 	Syringe = needle	
 	Were you baptized	
 	Did you get baptized	
@@ -693,7 +693,7 @@ We don’t have a similar sense of humor.
 	He slipped on a banana peel.	
 	Dan tripped Tom and Tom fell down.	
 	The end is nigh (near).	
-	October 2, 2019	
+## October 2, 2019	
 	LOL = laugh out loud	
 	BRB = be right back	
 	She has a soft voice.	
@@ -719,7 +719,7 @@ We don’t have a similar sense of humor.
 	You can forge their signatures on the posters.	
 	He killed several potential successors.	
 	You are much more beautiful than you sound.	
-	October 7, 2019	
+## October 7, 2019	
 	Something strange happened to me.	
 	After the “check engine” light comes on, you should take your car to be inspected by a mechanic.	
 	What is she doing?	
