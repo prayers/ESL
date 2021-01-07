@@ -24,7 +24,8 @@
     Hibernate (v.)
     Hibernation (n.)
     Hammer
-    nail	Consonants: b, c, d, f… w, x, y, z   Vowels: a, e, i, o, u, y
+    nail	
+    Consonants: b, c, d, f… w, x, y, z   Vowels: a, e, i, o, u, y
     It’s a European car.
     She wears a uniform.
     Her car is an MG.
@@ -63,7 +64,8 @@
     succeed(v.)
     successful(adj.)
     Certain 
-    pig(’s) meat=pork	There isn’t any milk in the fridge but there is some orange juice in the fridge.
+    pig(’s) meat=pork	
+    There isn’t any milk in the fridge but there is some orange juice in the fridge.
     How much coffee is there?
     How many tomatoes are there?
     How much water is there in your bottle?
@@ -118,13 +120,14 @@
     Belch
     Burp
     Quiet
-    Loud	We are not clever / smart enough.
+    Loud	
+    We are not clever / smart enough.
     I went to sleep / bed at 9:30 (nine, thirty).
     I fell asleep immediately.
     Are there enough books on the shelves?
     Present perfect progressive
     Liquid / gas / solid
-    October 26, 2019
+## October 26, 2019
     Unpleasant
     Unhappy
     Mean
@@ -137,7 +140,8 @@
     Orchestra
     Apple orchard
     Written
-    Log	In 2010, the tree was cut down at the age of 217
+    Log	
+    In 2010, the tree was cut down at the age of 217
     Some of the wood from the tree was made into a coffin / casket for Mr. Knight.
     Some wood should have been made into some chairs and tables.
     Herbie was 110 feet tall.
@@ -169,7 +173,8 @@
     Octagon
     Brick
     Candle
-    Light bulb	She plays piano quite well.
+    Light bulb	
+    She plays piano quite well.
     She describes things clearly.
     We work hard.
     She speaks more slowly than her sister.
@@ -235,7 +240,8 @@
     Nirvana
     Irregular verbs
     Vague = not clear
-    (parentheses)	I ate some snacks, played chess and went back to home (adv.)
+    (parentheses)	
+    I ate some snacks, played chess and went back to home (adv.)
     He is planting the flowers.
     How many times have you met me this month?
     I have met you five times this month.
@@ -253,7 +259,8 @@
     Hated
     Thank
     Buy
-    Bought	I have read seven pages of that book.
+    Bought	
+    I have read seven pages of that book.
     Yesterday, they were/he was prepared for the trip.
     Have you ever tried caviar?
     Peter, have you ever visited China?
@@ -282,7 +289,8 @@
     Treated
     Loaded
     Stated
-    Decorated	Go went gone going to go shopping
+    Decorated	
+    Go went gone going to go shopping
     Shut shut shut shutting to go hunting
     She has been sitting on that bench for three hours.
     David: Have you ever flown on a plane?
@@ -559,7 +567,8 @@
     Wasp
     Basement = cellar
     Moth 
-    Refrigerator	If I had bought some presents, I would have given them to my friend.
+    Refrigerator	
+    If I had bought some presents, I would have given them to my friend.
     If I hadn’t eaten breakfast, I would be hungry now.
     I wish we were happier.
     I wish you would say something your silence is killing me.
