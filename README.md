@@ -8,3 +8,4 @@
 + [Devin learning English in William's Class](Devin_English.md)
 ## Learning English 2021
   [==new words收集==](new_words_2021.md)
+  [==good sentences收集==](new_sentences_2021.md)
