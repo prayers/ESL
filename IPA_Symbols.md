@@ -1,6 +1,7 @@
 # Guide to IPA Symbols
 
 ## Vowels
+```ini
 a	æ				ask bat glad   
 ä	ɔ (ɑ:)				cot bomb  Vietnam  
 ȯ	ɔ:				caught paw  
@@ -23,5 +24,5 @@ er	eɚ				bare fair wear
 ir	iɚ				near deer mere pier   
 ȯr	oɚ				boar port door shore   
 u̇r	uɚ				boor tour insure   
-					
+```					
 					
