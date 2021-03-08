@@ -1,7 +1,7 @@
 # Guide to IPA Symbols
 
 ## Vowels
-```ini
+```html
 a	æ				ask bat glad   
 ä	ɔ (ɑ:)				cot bomb  Vietnam  
 ȯ	ɔ:				caught paw  
@@ -27,7 +27,7 @@ u̇r	uɚ				boor tour insure
 ```
 
 ## Consonants
-```ini
+```html
 b	b				baby labor cab
 d	d				day kid
 j	ʤ				just badger fudge
